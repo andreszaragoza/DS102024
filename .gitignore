@@ -166,3 +166,8 @@ cython_debug/
 Prof/
 3-DevelopmentTools/
 6-Poo_Proyecto/
+<<<<<<< HEAD
+=======
+*.DS_Store
+.DS_Store/
+>>>>>>> 47a6edee98d046c0d75243736e828c9b5194c9b8
