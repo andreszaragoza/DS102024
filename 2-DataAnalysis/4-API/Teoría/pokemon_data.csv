@@ -1,0 +1,1303 @@
+name,url,types,abilities
+bulbasaur,https://pokeapi.co/api/v2/pokemon/1/,"grass, poison","overgrow, chlorophyll"
+ivysaur,https://pokeapi.co/api/v2/pokemon/2/,"grass, poison","overgrow, chlorophyll"
+venusaur,https://pokeapi.co/api/v2/pokemon/3/,"grass, poison","overgrow, chlorophyll"
+charmander,https://pokeapi.co/api/v2/pokemon/4/,fire,"blaze, solar-power"
+charmeleon,https://pokeapi.co/api/v2/pokemon/5/,fire,"blaze, solar-power"
+charizard,https://pokeapi.co/api/v2/pokemon/6/,"fire, flying","blaze, solar-power"
+squirtle,https://pokeapi.co/api/v2/pokemon/7/,water,"torrent, rain-dish"
+wartortle,https://pokeapi.co/api/v2/pokemon/8/,water,"torrent, rain-dish"
+blastoise,https://pokeapi.co/api/v2/pokemon/9/,water,"torrent, rain-dish"
+caterpie,https://pokeapi.co/api/v2/pokemon/10/,bug,"shield-dust, run-away"
+metapod,https://pokeapi.co/api/v2/pokemon/11/,bug,shed-skin
+butterfree,https://pokeapi.co/api/v2/pokemon/12/,"bug, flying","compound-eyes, tinted-lens"
+weedle,https://pokeapi.co/api/v2/pokemon/13/,"bug, poison","shield-dust, run-away"
+kakuna,https://pokeapi.co/api/v2/pokemon/14/,"bug, poison",shed-skin
+beedrill,https://pokeapi.co/api/v2/pokemon/15/,"bug, poison","swarm, sniper"
+pidgey,https://pokeapi.co/api/v2/pokemon/16/,"normal, flying","keen-eye, tangled-feet, big-pecks"
+pidgeotto,https://pokeapi.co/api/v2/pokemon/17/,"normal, flying","keen-eye, tangled-feet, big-pecks"
+pidgeot,https://pokeapi.co/api/v2/pokemon/18/,"normal, flying","keen-eye, tangled-feet, big-pecks"
+rattata,https://pokeapi.co/api/v2/pokemon/19/,normal,"run-away, guts, hustle"
+raticate,https://pokeapi.co/api/v2/pokemon/20/,normal,"run-away, guts, hustle"
+spearow,https://pokeapi.co/api/v2/pokemon/21/,"normal, flying","keen-eye, sniper"
+fearow,https://pokeapi.co/api/v2/pokemon/22/,"normal, flying","keen-eye, sniper"
+ekans,https://pokeapi.co/api/v2/pokemon/23/,poison,"intimidate, shed-skin, unnerve"
+arbok,https://pokeapi.co/api/v2/pokemon/24/,poison,"intimidate, shed-skin, unnerve"
+pikachu,https://pokeapi.co/api/v2/pokemon/25/,electric,"static, lightning-rod"
+raichu,https://pokeapi.co/api/v2/pokemon/26/,electric,"static, lightning-rod"
+sandshrew,https://pokeapi.co/api/v2/pokemon/27/,ground,"sand-veil, sand-rush"
+sandslash,https://pokeapi.co/api/v2/pokemon/28/,ground,"sand-veil, sand-rush"
+nidoran-f,https://pokeapi.co/api/v2/pokemon/29/,poison,"poison-point, rivalry, hustle"
+nidorina,https://pokeapi.co/api/v2/pokemon/30/,poison,"poison-point, rivalry, hustle"
+nidoqueen,https://pokeapi.co/api/v2/pokemon/31/,"poison, ground","poison-point, rivalry, sheer-force"
+nidoran-m,https://pokeapi.co/api/v2/pokemon/32/,poison,"poison-point, rivalry, hustle"
+nidorino,https://pokeapi.co/api/v2/pokemon/33/,poison,"poison-point, rivalry, hustle"
+nidoking,https://pokeapi.co/api/v2/pokemon/34/,"poison, ground","poison-point, rivalry, sheer-force"
+clefairy,https://pokeapi.co/api/v2/pokemon/35/,fairy,"cute-charm, magic-guard, friend-guard"
+clefable,https://pokeapi.co/api/v2/pokemon/36/,fairy,"cute-charm, magic-guard, unaware"
+vulpix,https://pokeapi.co/api/v2/pokemon/37/,fire,"flash-fire, drought"
+ninetales,https://pokeapi.co/api/v2/pokemon/38/,fire,"flash-fire, drought"
+jigglypuff,https://pokeapi.co/api/v2/pokemon/39/,"normal, fairy","cute-charm, competitive, friend-guard"
+wigglytuff,https://pokeapi.co/api/v2/pokemon/40/,"normal, fairy","cute-charm, competitive, frisk"
+zubat,https://pokeapi.co/api/v2/pokemon/41/,"poison, flying","inner-focus, infiltrator"
+golbat,https://pokeapi.co/api/v2/pokemon/42/,"poison, flying","inner-focus, infiltrator"
+oddish,https://pokeapi.co/api/v2/pokemon/43/,"grass, poison","chlorophyll, run-away"
+gloom,https://pokeapi.co/api/v2/pokemon/44/,"grass, poison","chlorophyll, stench"
+vileplume,https://pokeapi.co/api/v2/pokemon/45/,"grass, poison","chlorophyll, effect-spore"
+paras,https://pokeapi.co/api/v2/pokemon/46/,"bug, grass","effect-spore, dry-skin, damp"
+parasect,https://pokeapi.co/api/v2/pokemon/47/,"bug, grass","effect-spore, dry-skin, damp"
+venonat,https://pokeapi.co/api/v2/pokemon/48/,"bug, poison","compound-eyes, tinted-lens, run-away"
+venomoth,https://pokeapi.co/api/v2/pokemon/49/,"bug, poison","shield-dust, tinted-lens, wonder-skin"
+diglett,https://pokeapi.co/api/v2/pokemon/50/,ground,"sand-veil, arena-trap, sand-force"
+dugtrio,https://pokeapi.co/api/v2/pokemon/51/,ground,"sand-veil, arena-trap, sand-force"
+meowth,https://pokeapi.co/api/v2/pokemon/52/,normal,"pickup, technician, unnerve"
+persian,https://pokeapi.co/api/v2/pokemon/53/,normal,"limber, technician, unnerve"
+psyduck,https://pokeapi.co/api/v2/pokemon/54/,water,"damp, cloud-nine, swift-swim"
+golduck,https://pokeapi.co/api/v2/pokemon/55/,water,"damp, cloud-nine, swift-swim"
+mankey,https://pokeapi.co/api/v2/pokemon/56/,fighting,"vital-spirit, anger-point, defiant"
+primeape,https://pokeapi.co/api/v2/pokemon/57/,fighting,"vital-spirit, anger-point, defiant"
+growlithe,https://pokeapi.co/api/v2/pokemon/58/,fire,"intimidate, flash-fire, justified"
+arcanine,https://pokeapi.co/api/v2/pokemon/59/,fire,"intimidate, flash-fire, justified"
+poliwag,https://pokeapi.co/api/v2/pokemon/60/,water,"water-absorb, damp, swift-swim"
+poliwhirl,https://pokeapi.co/api/v2/pokemon/61/,water,"water-absorb, damp, swift-swim"
+poliwrath,https://pokeapi.co/api/v2/pokemon/62/,"water, fighting","water-absorb, damp, swift-swim"
+abra,https://pokeapi.co/api/v2/pokemon/63/,psychic,"synchronize, inner-focus, magic-guard"
+kadabra,https://pokeapi.co/api/v2/pokemon/64/,psychic,"synchronize, inner-focus, magic-guard"
+alakazam,https://pokeapi.co/api/v2/pokemon/65/,psychic,"synchronize, inner-focus, magic-guard"
+machop,https://pokeapi.co/api/v2/pokemon/66/,fighting,"guts, no-guard, steadfast"
+machoke,https://pokeapi.co/api/v2/pokemon/67/,fighting,"guts, no-guard, steadfast"
+machamp,https://pokeapi.co/api/v2/pokemon/68/,fighting,"guts, no-guard, steadfast"
+bellsprout,https://pokeapi.co/api/v2/pokemon/69/,"grass, poison","chlorophyll, gluttony"
+weepinbell,https://pokeapi.co/api/v2/pokemon/70/,"grass, poison","chlorophyll, gluttony"
+victreebel,https://pokeapi.co/api/v2/pokemon/71/,"grass, poison","chlorophyll, gluttony"
+tentacool,https://pokeapi.co/api/v2/pokemon/72/,"water, poison","clear-body, liquid-ooze, rain-dish"
+tentacruel,https://pokeapi.co/api/v2/pokemon/73/,"water, poison","clear-body, liquid-ooze, rain-dish"
+geodude,https://pokeapi.co/api/v2/pokemon/74/,"rock, ground","rock-head, sturdy, sand-veil"
+graveler,https://pokeapi.co/api/v2/pokemon/75/,"rock, ground","rock-head, sturdy, sand-veil"
+golem,https://pokeapi.co/api/v2/pokemon/76/,"rock, ground","rock-head, sturdy, sand-veil"
+ponyta,https://pokeapi.co/api/v2/pokemon/77/,fire,"run-away, flash-fire, flame-body"
+rapidash,https://pokeapi.co/api/v2/pokemon/78/,fire,"run-away, flash-fire, flame-body"
+slowpoke,https://pokeapi.co/api/v2/pokemon/79/,"water, psychic","oblivious, own-tempo, regenerator"
+slowbro,https://pokeapi.co/api/v2/pokemon/80/,"water, psychic","oblivious, own-tempo, regenerator"
+magnemite,https://pokeapi.co/api/v2/pokemon/81/,"electric, steel","magnet-pull, sturdy, analytic"
+magneton,https://pokeapi.co/api/v2/pokemon/82/,"electric, steel","magnet-pull, sturdy, analytic"
+farfetchd,https://pokeapi.co/api/v2/pokemon/83/,"normal, flying","keen-eye, inner-focus, defiant"
+doduo,https://pokeapi.co/api/v2/pokemon/84/,"normal, flying","run-away, early-bird, tangled-feet"
+dodrio,https://pokeapi.co/api/v2/pokemon/85/,"normal, flying","run-away, early-bird, tangled-feet"
+seel,https://pokeapi.co/api/v2/pokemon/86/,water,"thick-fat, hydration, ice-body"
+dewgong,https://pokeapi.co/api/v2/pokemon/87/,"water, ice","thick-fat, hydration, ice-body"
+grimer,https://pokeapi.co/api/v2/pokemon/88/,poison,"stench, sticky-hold, poison-touch"
+muk,https://pokeapi.co/api/v2/pokemon/89/,poison,"stench, sticky-hold, poison-touch"
+shellder,https://pokeapi.co/api/v2/pokemon/90/,water,"shell-armor, skill-link, overcoat"
+cloyster,https://pokeapi.co/api/v2/pokemon/91/,"water, ice","shell-armor, skill-link, overcoat"
+gastly,https://pokeapi.co/api/v2/pokemon/92/,"ghost, poison",levitate
+haunter,https://pokeapi.co/api/v2/pokemon/93/,"ghost, poison",levitate
+gengar,https://pokeapi.co/api/v2/pokemon/94/,"ghost, poison",cursed-body
+onix,https://pokeapi.co/api/v2/pokemon/95/,"rock, ground","rock-head, sturdy, weak-armor"
+drowzee,https://pokeapi.co/api/v2/pokemon/96/,psychic,"insomnia, forewarn, inner-focus"
+hypno,https://pokeapi.co/api/v2/pokemon/97/,psychic,"insomnia, forewarn, inner-focus"
+krabby,https://pokeapi.co/api/v2/pokemon/98/,water,"hyper-cutter, shell-armor, sheer-force"
+kingler,https://pokeapi.co/api/v2/pokemon/99/,water,"hyper-cutter, shell-armor, sheer-force"
+voltorb,https://pokeapi.co/api/v2/pokemon/100/,electric,"soundproof, static, aftermath"
+electrode,https://pokeapi.co/api/v2/pokemon/101/,electric,"soundproof, static, aftermath"
+exeggcute,https://pokeapi.co/api/v2/pokemon/102/,"grass, psychic","chlorophyll, harvest"
+exeggutor,https://pokeapi.co/api/v2/pokemon/103/,"grass, psychic","chlorophyll, harvest"
+cubone,https://pokeapi.co/api/v2/pokemon/104/,ground,"rock-head, lightning-rod, battle-armor"
+marowak,https://pokeapi.co/api/v2/pokemon/105/,ground,"rock-head, lightning-rod, battle-armor"
+hitmonlee,https://pokeapi.co/api/v2/pokemon/106/,fighting,"limber, reckless, unburden"
+hitmonchan,https://pokeapi.co/api/v2/pokemon/107/,fighting,"keen-eye, iron-fist, inner-focus"
+lickitung,https://pokeapi.co/api/v2/pokemon/108/,normal,"own-tempo, oblivious, cloud-nine"
+koffing,https://pokeapi.co/api/v2/pokemon/109/,poison,"levitate, neutralizing-gas, stench"
+weezing,https://pokeapi.co/api/v2/pokemon/110/,poison,"levitate, neutralizing-gas, stench"
+rhyhorn,https://pokeapi.co/api/v2/pokemon/111/,"ground, rock","lightning-rod, rock-head, reckless"
+rhydon,https://pokeapi.co/api/v2/pokemon/112/,"ground, rock","lightning-rod, rock-head, reckless"
+chansey,https://pokeapi.co/api/v2/pokemon/113/,normal,"natural-cure, serene-grace, healer"
+tangela,https://pokeapi.co/api/v2/pokemon/114/,grass,"chlorophyll, leaf-guard, regenerator"
+kangaskhan,https://pokeapi.co/api/v2/pokemon/115/,normal,"early-bird, scrappy, inner-focus"
+horsea,https://pokeapi.co/api/v2/pokemon/116/,water,"swift-swim, sniper, damp"
+seadra,https://pokeapi.co/api/v2/pokemon/117/,water,"poison-point, sniper, damp"
+goldeen,https://pokeapi.co/api/v2/pokemon/118/,water,"swift-swim, water-veil, lightning-rod"
+seaking,https://pokeapi.co/api/v2/pokemon/119/,water,"swift-swim, water-veil, lightning-rod"
+staryu,https://pokeapi.co/api/v2/pokemon/120/,water,"illuminate, natural-cure, analytic"
+starmie,https://pokeapi.co/api/v2/pokemon/121/,"water, psychic","illuminate, natural-cure, analytic"
+mr-mime,https://pokeapi.co/api/v2/pokemon/122/,"psychic, fairy","soundproof, filter, technician"
+scyther,https://pokeapi.co/api/v2/pokemon/123/,"bug, flying","swarm, technician, steadfast"
+jynx,https://pokeapi.co/api/v2/pokemon/124/,"ice, psychic","oblivious, forewarn, dry-skin"
+electabuzz,https://pokeapi.co/api/v2/pokemon/125/,electric,"static, vital-spirit"
+magmar,https://pokeapi.co/api/v2/pokemon/126/,fire,"flame-body, vital-spirit"
+pinsir,https://pokeapi.co/api/v2/pokemon/127/,bug,"hyper-cutter, mold-breaker, moxie"
+tauros,https://pokeapi.co/api/v2/pokemon/128/,normal,"intimidate, anger-point, sheer-force"
+magikarp,https://pokeapi.co/api/v2/pokemon/129/,water,"swift-swim, rattled"
+gyarados,https://pokeapi.co/api/v2/pokemon/130/,"water, flying","intimidate, moxie"
+lapras,https://pokeapi.co/api/v2/pokemon/131/,"water, ice","water-absorb, shell-armor, hydration"
+ditto,https://pokeapi.co/api/v2/pokemon/132/,normal,"limber, imposter"
+eevee,https://pokeapi.co/api/v2/pokemon/133/,normal,"run-away, adaptability, anticipation"
+vaporeon,https://pokeapi.co/api/v2/pokemon/134/,water,"water-absorb, hydration"
+jolteon,https://pokeapi.co/api/v2/pokemon/135/,electric,"volt-absorb, quick-feet"
+flareon,https://pokeapi.co/api/v2/pokemon/136/,fire,"flash-fire, guts"
+porygon,https://pokeapi.co/api/v2/pokemon/137/,normal,"trace, download, analytic"
+omanyte,https://pokeapi.co/api/v2/pokemon/138/,"rock, water","swift-swim, shell-armor, weak-armor"
+omastar,https://pokeapi.co/api/v2/pokemon/139/,"rock, water","swift-swim, shell-armor, weak-armor"
+kabuto,https://pokeapi.co/api/v2/pokemon/140/,"rock, water","swift-swim, battle-armor, weak-armor"
+kabutops,https://pokeapi.co/api/v2/pokemon/141/,"rock, water","swift-swim, battle-armor, weak-armor"
+aerodactyl,https://pokeapi.co/api/v2/pokemon/142/,"rock, flying","rock-head, pressure, unnerve"
+snorlax,https://pokeapi.co/api/v2/pokemon/143/,normal,"immunity, thick-fat, gluttony"
+articuno,https://pokeapi.co/api/v2/pokemon/144/,"ice, flying","pressure, snow-cloak"
+zapdos,https://pokeapi.co/api/v2/pokemon/145/,"electric, flying","pressure, static"
+moltres,https://pokeapi.co/api/v2/pokemon/146/,"fire, flying","pressure, flame-body"
+dratini,https://pokeapi.co/api/v2/pokemon/147/,dragon,"shed-skin, marvel-scale"
+dragonair,https://pokeapi.co/api/v2/pokemon/148/,dragon,"shed-skin, marvel-scale"
+dragonite,https://pokeapi.co/api/v2/pokemon/149/,"dragon, flying","inner-focus, multiscale"
+mewtwo,https://pokeapi.co/api/v2/pokemon/150/,psychic,"pressure, unnerve"
+mew,https://pokeapi.co/api/v2/pokemon/151/,psychic,synchronize
+chikorita,https://pokeapi.co/api/v2/pokemon/152/,grass,"overgrow, leaf-guard"
+bayleef,https://pokeapi.co/api/v2/pokemon/153/,grass,"overgrow, leaf-guard"
+meganium,https://pokeapi.co/api/v2/pokemon/154/,grass,"overgrow, leaf-guard"
+cyndaquil,https://pokeapi.co/api/v2/pokemon/155/,fire,"blaze, flash-fire"
+quilava,https://pokeapi.co/api/v2/pokemon/156/,fire,"blaze, flash-fire"
+typhlosion,https://pokeapi.co/api/v2/pokemon/157/,fire,"blaze, flash-fire"
+totodile,https://pokeapi.co/api/v2/pokemon/158/,water,"torrent, sheer-force"
+croconaw,https://pokeapi.co/api/v2/pokemon/159/,water,"torrent, sheer-force"
+feraligatr,https://pokeapi.co/api/v2/pokemon/160/,water,"torrent, sheer-force"
+sentret,https://pokeapi.co/api/v2/pokemon/161/,normal,"run-away, keen-eye, frisk"
+furret,https://pokeapi.co/api/v2/pokemon/162/,normal,"run-away, keen-eye, frisk"
+hoothoot,https://pokeapi.co/api/v2/pokemon/163/,"normal, flying","insomnia, keen-eye, tinted-lens"
+noctowl,https://pokeapi.co/api/v2/pokemon/164/,"normal, flying","insomnia, keen-eye, tinted-lens"
+ledyba,https://pokeapi.co/api/v2/pokemon/165/,"bug, flying","swarm, early-bird, rattled"
+ledian,https://pokeapi.co/api/v2/pokemon/166/,"bug, flying","swarm, early-bird, iron-fist"
+spinarak,https://pokeapi.co/api/v2/pokemon/167/,"bug, poison","swarm, insomnia, sniper"
+ariados,https://pokeapi.co/api/v2/pokemon/168/,"bug, poison","swarm, insomnia, sniper"
+crobat,https://pokeapi.co/api/v2/pokemon/169/,"poison, flying","inner-focus, infiltrator"
+chinchou,https://pokeapi.co/api/v2/pokemon/170/,"water, electric","volt-absorb, illuminate, water-absorb"
+lanturn,https://pokeapi.co/api/v2/pokemon/171/,"water, electric","volt-absorb, illuminate, water-absorb"
+pichu,https://pokeapi.co/api/v2/pokemon/172/,electric,"static, lightning-rod"
+cleffa,https://pokeapi.co/api/v2/pokemon/173/,fairy,"cute-charm, magic-guard, friend-guard"
+igglybuff,https://pokeapi.co/api/v2/pokemon/174/,"normal, fairy","cute-charm, competitive, friend-guard"
+togepi,https://pokeapi.co/api/v2/pokemon/175/,fairy,"hustle, serene-grace, super-luck"
+togetic,https://pokeapi.co/api/v2/pokemon/176/,"fairy, flying","hustle, serene-grace, super-luck"
+natu,https://pokeapi.co/api/v2/pokemon/177/,"psychic, flying","synchronize, early-bird, magic-bounce"
+xatu,https://pokeapi.co/api/v2/pokemon/178/,"psychic, flying","synchronize, early-bird, magic-bounce"
+mareep,https://pokeapi.co/api/v2/pokemon/179/,electric,"static, plus"
+flaaffy,https://pokeapi.co/api/v2/pokemon/180/,electric,"static, plus"
+ampharos,https://pokeapi.co/api/v2/pokemon/181/,electric,"static, plus"
+bellossom,https://pokeapi.co/api/v2/pokemon/182/,grass,"chlorophyll, healer"
+marill,https://pokeapi.co/api/v2/pokemon/183/,"water, fairy","thick-fat, huge-power, sap-sipper"
+azumarill,https://pokeapi.co/api/v2/pokemon/184/,"water, fairy","thick-fat, huge-power, sap-sipper"
+sudowoodo,https://pokeapi.co/api/v2/pokemon/185/,rock,"sturdy, rock-head, rattled"
+politoed,https://pokeapi.co/api/v2/pokemon/186/,water,"water-absorb, damp, drizzle"
+hoppip,https://pokeapi.co/api/v2/pokemon/187/,"grass, flying","chlorophyll, leaf-guard, infiltrator"
+skiploom,https://pokeapi.co/api/v2/pokemon/188/,"grass, flying","chlorophyll, leaf-guard, infiltrator"
+jumpluff,https://pokeapi.co/api/v2/pokemon/189/,"grass, flying","chlorophyll, leaf-guard, infiltrator"
+aipom,https://pokeapi.co/api/v2/pokemon/190/,normal,"run-away, pickup, skill-link"
+sunkern,https://pokeapi.co/api/v2/pokemon/191/,grass,"chlorophyll, solar-power, early-bird"
+sunflora,https://pokeapi.co/api/v2/pokemon/192/,grass,"chlorophyll, solar-power, early-bird"
+yanma,https://pokeapi.co/api/v2/pokemon/193/,"bug, flying","speed-boost, compound-eyes, frisk"
+wooper,https://pokeapi.co/api/v2/pokemon/194/,"water, ground","damp, water-absorb, unaware"
+quagsire,https://pokeapi.co/api/v2/pokemon/195/,"water, ground","damp, water-absorb, unaware"
+espeon,https://pokeapi.co/api/v2/pokemon/196/,psychic,"synchronize, magic-bounce"
+umbreon,https://pokeapi.co/api/v2/pokemon/197/,dark,"synchronize, inner-focus"
+murkrow,https://pokeapi.co/api/v2/pokemon/198/,"dark, flying","insomnia, super-luck, prankster"
+slowking,https://pokeapi.co/api/v2/pokemon/199/,"water, psychic","oblivious, own-tempo, regenerator"
+misdreavus,https://pokeapi.co/api/v2/pokemon/200/,ghost,levitate
+unown,https://pokeapi.co/api/v2/pokemon/201/,psychic,levitate
+wobbuffet,https://pokeapi.co/api/v2/pokemon/202/,psychic,"shadow-tag, telepathy"
+girafarig,https://pokeapi.co/api/v2/pokemon/203/,"normal, psychic","inner-focus, early-bird, sap-sipper"
+pineco,https://pokeapi.co/api/v2/pokemon/204/,bug,"sturdy, overcoat"
+forretress,https://pokeapi.co/api/v2/pokemon/205/,"bug, steel","sturdy, overcoat"
+dunsparce,https://pokeapi.co/api/v2/pokemon/206/,normal,"serene-grace, run-away, rattled"
+gligar,https://pokeapi.co/api/v2/pokemon/207/,"ground, flying","hyper-cutter, sand-veil, immunity"
+steelix,https://pokeapi.co/api/v2/pokemon/208/,"steel, ground","rock-head, sturdy, sheer-force"
+snubbull,https://pokeapi.co/api/v2/pokemon/209/,fairy,"intimidate, run-away, rattled"
+granbull,https://pokeapi.co/api/v2/pokemon/210/,fairy,"intimidate, quick-feet, rattled"
+qwilfish,https://pokeapi.co/api/v2/pokemon/211/,"water, poison","poison-point, swift-swim, intimidate"
+scizor,https://pokeapi.co/api/v2/pokemon/212/,"bug, steel","swarm, technician, light-metal"
+shuckle,https://pokeapi.co/api/v2/pokemon/213/,"bug, rock","sturdy, gluttony, contrary"
+heracross,https://pokeapi.co/api/v2/pokemon/214/,"bug, fighting","swarm, guts, moxie"
+sneasel,https://pokeapi.co/api/v2/pokemon/215/,"dark, ice","inner-focus, keen-eye, pickpocket"
+teddiursa,https://pokeapi.co/api/v2/pokemon/216/,normal,"pickup, quick-feet, honey-gather"
+ursaring,https://pokeapi.co/api/v2/pokemon/217/,normal,"guts, quick-feet, unnerve"
+slugma,https://pokeapi.co/api/v2/pokemon/218/,fire,"magma-armor, flame-body, weak-armor"
+magcargo,https://pokeapi.co/api/v2/pokemon/219/,"fire, rock","magma-armor, flame-body, weak-armor"
+swinub,https://pokeapi.co/api/v2/pokemon/220/,"ice, ground","oblivious, snow-cloak, thick-fat"
+piloswine,https://pokeapi.co/api/v2/pokemon/221/,"ice, ground","oblivious, snow-cloak, thick-fat"
+corsola,https://pokeapi.co/api/v2/pokemon/222/,"water, rock","hustle, natural-cure, regenerator"
+remoraid,https://pokeapi.co/api/v2/pokemon/223/,water,"hustle, sniper, moody"
+octillery,https://pokeapi.co/api/v2/pokemon/224/,water,"suction-cups, sniper, moody"
+delibird,https://pokeapi.co/api/v2/pokemon/225/,"ice, flying","vital-spirit, hustle, insomnia"
+mantine,https://pokeapi.co/api/v2/pokemon/226/,"water, flying","swift-swim, water-absorb, water-veil"
+skarmory,https://pokeapi.co/api/v2/pokemon/227/,"steel, flying","keen-eye, sturdy, weak-armor"
+houndour,https://pokeapi.co/api/v2/pokemon/228/,"dark, fire","early-bird, flash-fire, unnerve"
+houndoom,https://pokeapi.co/api/v2/pokemon/229/,"dark, fire","early-bird, flash-fire, unnerve"
+kingdra,https://pokeapi.co/api/v2/pokemon/230/,"water, dragon","swift-swim, sniper, damp"
+phanpy,https://pokeapi.co/api/v2/pokemon/231/,ground,"pickup, sand-veil"
+donphan,https://pokeapi.co/api/v2/pokemon/232/,ground,"sturdy, sand-veil"
+porygon2,https://pokeapi.co/api/v2/pokemon/233/,normal,"trace, download, analytic"
+stantler,https://pokeapi.co/api/v2/pokemon/234/,normal,"intimidate, frisk, sap-sipper"
+smeargle,https://pokeapi.co/api/v2/pokemon/235/,normal,"own-tempo, technician, moody"
+tyrogue,https://pokeapi.co/api/v2/pokemon/236/,fighting,"guts, steadfast, vital-spirit"
+hitmontop,https://pokeapi.co/api/v2/pokemon/237/,fighting,"intimidate, technician, steadfast"
+smoochum,https://pokeapi.co/api/v2/pokemon/238/,"ice, psychic","oblivious, forewarn, hydration"
+elekid,https://pokeapi.co/api/v2/pokemon/239/,electric,"static, vital-spirit"
+magby,https://pokeapi.co/api/v2/pokemon/240/,fire,"flame-body, vital-spirit"
+miltank,https://pokeapi.co/api/v2/pokemon/241/,normal,"thick-fat, scrappy, sap-sipper"
+blissey,https://pokeapi.co/api/v2/pokemon/242/,normal,"natural-cure, serene-grace, healer"
+raikou,https://pokeapi.co/api/v2/pokemon/243/,electric,"pressure, inner-focus"
+entei,https://pokeapi.co/api/v2/pokemon/244/,fire,"pressure, inner-focus"
+suicune,https://pokeapi.co/api/v2/pokemon/245/,water,"pressure, inner-focus"
+larvitar,https://pokeapi.co/api/v2/pokemon/246/,"rock, ground","guts, sand-veil"
+pupitar,https://pokeapi.co/api/v2/pokemon/247/,"rock, ground",shed-skin
+tyranitar,https://pokeapi.co/api/v2/pokemon/248/,"rock, dark","sand-stream, unnerve"
+lugia,https://pokeapi.co/api/v2/pokemon/249/,"psychic, flying","pressure, multiscale"
+ho-oh,https://pokeapi.co/api/v2/pokemon/250/,"fire, flying","pressure, regenerator"
+celebi,https://pokeapi.co/api/v2/pokemon/251/,"psychic, grass",natural-cure
+treecko,https://pokeapi.co/api/v2/pokemon/252/,grass,"overgrow, unburden"
+grovyle,https://pokeapi.co/api/v2/pokemon/253/,grass,"overgrow, unburden"
+sceptile,https://pokeapi.co/api/v2/pokemon/254/,grass,"overgrow, unburden"
+torchic,https://pokeapi.co/api/v2/pokemon/255/,fire,"blaze, speed-boost"
+combusken,https://pokeapi.co/api/v2/pokemon/256/,"fire, fighting","blaze, speed-boost"
+blaziken,https://pokeapi.co/api/v2/pokemon/257/,"fire, fighting","blaze, speed-boost"
+mudkip,https://pokeapi.co/api/v2/pokemon/258/,water,"torrent, damp"
+marshtomp,https://pokeapi.co/api/v2/pokemon/259/,"water, ground","torrent, damp"
+swampert,https://pokeapi.co/api/v2/pokemon/260/,"water, ground","torrent, damp"
+poochyena,https://pokeapi.co/api/v2/pokemon/261/,dark,"run-away, quick-feet, rattled"
+mightyena,https://pokeapi.co/api/v2/pokemon/262/,dark,"intimidate, quick-feet, moxie"
+zigzagoon,https://pokeapi.co/api/v2/pokemon/263/,normal,"pickup, gluttony, quick-feet"
+linoone,https://pokeapi.co/api/v2/pokemon/264/,normal,"pickup, gluttony, quick-feet"
+wurmple,https://pokeapi.co/api/v2/pokemon/265/,bug,"shield-dust, run-away"
+silcoon,https://pokeapi.co/api/v2/pokemon/266/,bug,shed-skin
+beautifly,https://pokeapi.co/api/v2/pokemon/267/,"bug, flying","swarm, rivalry"
+cascoon,https://pokeapi.co/api/v2/pokemon/268/,bug,shed-skin
+dustox,https://pokeapi.co/api/v2/pokemon/269/,"bug, poison","shield-dust, compound-eyes"
+lotad,https://pokeapi.co/api/v2/pokemon/270/,"water, grass","swift-swim, rain-dish, own-tempo"
+lombre,https://pokeapi.co/api/v2/pokemon/271/,"water, grass","swift-swim, rain-dish, own-tempo"
+ludicolo,https://pokeapi.co/api/v2/pokemon/272/,"water, grass","swift-swim, rain-dish, own-tempo"
+seedot,https://pokeapi.co/api/v2/pokemon/273/,grass,"chlorophyll, early-bird, pickpocket"
+nuzleaf,https://pokeapi.co/api/v2/pokemon/274/,"grass, dark","chlorophyll, early-bird, pickpocket"
+shiftry,https://pokeapi.co/api/v2/pokemon/275/,"grass, dark","chlorophyll, wind-rider, pickpocket"
+taillow,https://pokeapi.co/api/v2/pokemon/276/,"normal, flying","guts, scrappy"
+swellow,https://pokeapi.co/api/v2/pokemon/277/,"normal, flying","guts, scrappy"
+wingull,https://pokeapi.co/api/v2/pokemon/278/,"water, flying","keen-eye, hydration, rain-dish"
+pelipper,https://pokeapi.co/api/v2/pokemon/279/,"water, flying","keen-eye, drizzle, rain-dish"
+ralts,https://pokeapi.co/api/v2/pokemon/280/,"psychic, fairy","synchronize, trace, telepathy"
+kirlia,https://pokeapi.co/api/v2/pokemon/281/,"psychic, fairy","synchronize, trace, telepathy"
+gardevoir,https://pokeapi.co/api/v2/pokemon/282/,"psychic, fairy","synchronize, trace, telepathy"
+surskit,https://pokeapi.co/api/v2/pokemon/283/,"bug, water","swift-swim, rain-dish"
+masquerain,https://pokeapi.co/api/v2/pokemon/284/,"bug, flying","intimidate, unnerve"
+shroomish,https://pokeapi.co/api/v2/pokemon/285/,grass,"effect-spore, poison-heal, quick-feet"
+breloom,https://pokeapi.co/api/v2/pokemon/286/,"grass, fighting","effect-spore, poison-heal, technician"
+slakoth,https://pokeapi.co/api/v2/pokemon/287/,normal,truant
+vigoroth,https://pokeapi.co/api/v2/pokemon/288/,normal,vital-spirit
+slaking,https://pokeapi.co/api/v2/pokemon/289/,normal,truant
+nincada,https://pokeapi.co/api/v2/pokemon/290/,"bug, ground","compound-eyes, run-away"
+ninjask,https://pokeapi.co/api/v2/pokemon/291/,"bug, flying","speed-boost, infiltrator"
+shedinja,https://pokeapi.co/api/v2/pokemon/292/,"bug, ghost",wonder-guard
+whismur,https://pokeapi.co/api/v2/pokemon/293/,normal,"soundproof, rattled"
+loudred,https://pokeapi.co/api/v2/pokemon/294/,normal,"soundproof, scrappy"
+exploud,https://pokeapi.co/api/v2/pokemon/295/,normal,"soundproof, scrappy"
+makuhita,https://pokeapi.co/api/v2/pokemon/296/,fighting,"thick-fat, guts, sheer-force"
+hariyama,https://pokeapi.co/api/v2/pokemon/297/,fighting,"thick-fat, guts, sheer-force"
+azurill,https://pokeapi.co/api/v2/pokemon/298/,"normal, fairy","thick-fat, huge-power, sap-sipper"
+nosepass,https://pokeapi.co/api/v2/pokemon/299/,rock,"sturdy, magnet-pull, sand-force"
+skitty,https://pokeapi.co/api/v2/pokemon/300/,normal,"cute-charm, normalize, wonder-skin"
+delcatty,https://pokeapi.co/api/v2/pokemon/301/,normal,"cute-charm, normalize, wonder-skin"
+sableye,https://pokeapi.co/api/v2/pokemon/302/,"dark, ghost","keen-eye, stall, prankster"
+mawile,https://pokeapi.co/api/v2/pokemon/303/,"steel, fairy","hyper-cutter, intimidate, sheer-force"
+aron,https://pokeapi.co/api/v2/pokemon/304/,"steel, rock","sturdy, rock-head, heavy-metal"
+lairon,https://pokeapi.co/api/v2/pokemon/305/,"steel, rock","sturdy, rock-head, heavy-metal"
+aggron,https://pokeapi.co/api/v2/pokemon/306/,"steel, rock","sturdy, rock-head, heavy-metal"
+meditite,https://pokeapi.co/api/v2/pokemon/307/,"fighting, psychic","pure-power, telepathy"
+medicham,https://pokeapi.co/api/v2/pokemon/308/,"fighting, psychic","pure-power, telepathy"
+electrike,https://pokeapi.co/api/v2/pokemon/309/,electric,"static, lightning-rod, minus"
+manectric,https://pokeapi.co/api/v2/pokemon/310/,electric,"static, lightning-rod, minus"
+plusle,https://pokeapi.co/api/v2/pokemon/311/,electric,"plus, lightning-rod"
+minun,https://pokeapi.co/api/v2/pokemon/312/,electric,"minus, volt-absorb"
+volbeat,https://pokeapi.co/api/v2/pokemon/313/,bug,"illuminate, swarm, prankster"
+illumise,https://pokeapi.co/api/v2/pokemon/314/,bug,"oblivious, tinted-lens, prankster"
+roselia,https://pokeapi.co/api/v2/pokemon/315/,"grass, poison","natural-cure, poison-point, leaf-guard"
+gulpin,https://pokeapi.co/api/v2/pokemon/316/,poison,"liquid-ooze, sticky-hold, gluttony"
+swalot,https://pokeapi.co/api/v2/pokemon/317/,poison,"liquid-ooze, sticky-hold, gluttony"
+carvanha,https://pokeapi.co/api/v2/pokemon/318/,"water, dark","rough-skin, speed-boost"
+sharpedo,https://pokeapi.co/api/v2/pokemon/319/,"water, dark","rough-skin, speed-boost"
+wailmer,https://pokeapi.co/api/v2/pokemon/320/,water,"water-veil, oblivious, pressure"
+wailord,https://pokeapi.co/api/v2/pokemon/321/,water,"water-veil, oblivious, pressure"
+numel,https://pokeapi.co/api/v2/pokemon/322/,"fire, ground","oblivious, simple, own-tempo"
+camerupt,https://pokeapi.co/api/v2/pokemon/323/,"fire, ground","magma-armor, solid-rock, anger-point"
+torkoal,https://pokeapi.co/api/v2/pokemon/324/,fire,"white-smoke, drought, shell-armor"
+spoink,https://pokeapi.co/api/v2/pokemon/325/,psychic,"thick-fat, own-tempo, gluttony"
+grumpig,https://pokeapi.co/api/v2/pokemon/326/,psychic,"thick-fat, own-tempo, gluttony"
+spinda,https://pokeapi.co/api/v2/pokemon/327/,normal,"own-tempo, tangled-feet, contrary"
+trapinch,https://pokeapi.co/api/v2/pokemon/328/,ground,"hyper-cutter, arena-trap, sheer-force"
+vibrava,https://pokeapi.co/api/v2/pokemon/329/,"ground, dragon",levitate
+flygon,https://pokeapi.co/api/v2/pokemon/330/,"ground, dragon",levitate
+cacnea,https://pokeapi.co/api/v2/pokemon/331/,grass,"sand-veil, water-absorb"
+cacturne,https://pokeapi.co/api/v2/pokemon/332/,"grass, dark","sand-veil, water-absorb"
+swablu,https://pokeapi.co/api/v2/pokemon/333/,"normal, flying","natural-cure, cloud-nine"
+altaria,https://pokeapi.co/api/v2/pokemon/334/,"dragon, flying","natural-cure, cloud-nine"
+zangoose,https://pokeapi.co/api/v2/pokemon/335/,normal,"immunity, toxic-boost"
+seviper,https://pokeapi.co/api/v2/pokemon/336/,poison,"shed-skin, infiltrator"
+lunatone,https://pokeapi.co/api/v2/pokemon/337/,"rock, psychic",levitate
+solrock,https://pokeapi.co/api/v2/pokemon/338/,"rock, psychic",levitate
+barboach,https://pokeapi.co/api/v2/pokemon/339/,"water, ground","oblivious, anticipation, hydration"
+whiscash,https://pokeapi.co/api/v2/pokemon/340/,"water, ground","oblivious, anticipation, hydration"
+corphish,https://pokeapi.co/api/v2/pokemon/341/,water,"hyper-cutter, shell-armor, adaptability"
+crawdaunt,https://pokeapi.co/api/v2/pokemon/342/,"water, dark","hyper-cutter, shell-armor, adaptability"
+baltoy,https://pokeapi.co/api/v2/pokemon/343/,"ground, psychic",levitate
+claydol,https://pokeapi.co/api/v2/pokemon/344/,"ground, psychic",levitate
+lileep,https://pokeapi.co/api/v2/pokemon/345/,"rock, grass","suction-cups, storm-drain"
+cradily,https://pokeapi.co/api/v2/pokemon/346/,"rock, grass","suction-cups, storm-drain"
+anorith,https://pokeapi.co/api/v2/pokemon/347/,"rock, bug","battle-armor, swift-swim"
+armaldo,https://pokeapi.co/api/v2/pokemon/348/,"rock, bug","battle-armor, swift-swim"
+feebas,https://pokeapi.co/api/v2/pokemon/349/,water,"swift-swim, oblivious, adaptability"
+milotic,https://pokeapi.co/api/v2/pokemon/350/,water,"marvel-scale, competitive, cute-charm"
+castform,https://pokeapi.co/api/v2/pokemon/351/,normal,forecast
+kecleon,https://pokeapi.co/api/v2/pokemon/352/,normal,"color-change, protean"
+shuppet,https://pokeapi.co/api/v2/pokemon/353/,ghost,"insomnia, frisk, cursed-body"
+banette,https://pokeapi.co/api/v2/pokemon/354/,ghost,"insomnia, frisk, cursed-body"
+duskull,https://pokeapi.co/api/v2/pokemon/355/,ghost,"levitate, frisk"
+dusclops,https://pokeapi.co/api/v2/pokemon/356/,ghost,"pressure, frisk"
+tropius,https://pokeapi.co/api/v2/pokemon/357/,"grass, flying","chlorophyll, solar-power, harvest"
+chimecho,https://pokeapi.co/api/v2/pokemon/358/,psychic,levitate
+absol,https://pokeapi.co/api/v2/pokemon/359/,dark,"pressure, super-luck, justified"
+wynaut,https://pokeapi.co/api/v2/pokemon/360/,psychic,"shadow-tag, telepathy"
+snorunt,https://pokeapi.co/api/v2/pokemon/361/,ice,"inner-focus, ice-body, moody"
+glalie,https://pokeapi.co/api/v2/pokemon/362/,ice,"inner-focus, ice-body, moody"
+spheal,https://pokeapi.co/api/v2/pokemon/363/,"ice, water","thick-fat, ice-body, oblivious"
+sealeo,https://pokeapi.co/api/v2/pokemon/364/,"ice, water","thick-fat, ice-body, oblivious"
+walrein,https://pokeapi.co/api/v2/pokemon/365/,"ice, water","thick-fat, ice-body, oblivious"
+clamperl,https://pokeapi.co/api/v2/pokemon/366/,water,"shell-armor, rattled"
+huntail,https://pokeapi.co/api/v2/pokemon/367/,water,"swift-swim, water-veil"
+gorebyss,https://pokeapi.co/api/v2/pokemon/368/,water,"swift-swim, hydration"
+relicanth,https://pokeapi.co/api/v2/pokemon/369/,"water, rock","swift-swim, rock-head, sturdy"
+luvdisc,https://pokeapi.co/api/v2/pokemon/370/,water,"swift-swim, hydration"
+bagon,https://pokeapi.co/api/v2/pokemon/371/,dragon,"rock-head, sheer-force"
+shelgon,https://pokeapi.co/api/v2/pokemon/372/,dragon,"rock-head, overcoat"
+salamence,https://pokeapi.co/api/v2/pokemon/373/,"dragon, flying","intimidate, moxie"
+beldum,https://pokeapi.co/api/v2/pokemon/374/,"steel, psychic","clear-body, light-metal"
+metang,https://pokeapi.co/api/v2/pokemon/375/,"steel, psychic","clear-body, light-metal"
+metagross,https://pokeapi.co/api/v2/pokemon/376/,"steel, psychic","clear-body, light-metal"
+regirock,https://pokeapi.co/api/v2/pokemon/377/,rock,"clear-body, sturdy"
+regice,https://pokeapi.co/api/v2/pokemon/378/,ice,"clear-body, ice-body"
+registeel,https://pokeapi.co/api/v2/pokemon/379/,steel,"clear-body, light-metal"
+latias,https://pokeapi.co/api/v2/pokemon/380/,"dragon, psychic",levitate
+latios,https://pokeapi.co/api/v2/pokemon/381/,"dragon, psychic",levitate
+kyogre,https://pokeapi.co/api/v2/pokemon/382/,water,drizzle
+groudon,https://pokeapi.co/api/v2/pokemon/383/,ground,drought
+rayquaza,https://pokeapi.co/api/v2/pokemon/384/,"dragon, flying",air-lock
+jirachi,https://pokeapi.co/api/v2/pokemon/385/,"steel, psychic",serene-grace
+deoxys-normal,https://pokeapi.co/api/v2/pokemon/386/,psychic,pressure
+turtwig,https://pokeapi.co/api/v2/pokemon/387/,grass,"overgrow, shell-armor"
+grotle,https://pokeapi.co/api/v2/pokemon/388/,grass,"overgrow, shell-armor"
+torterra,https://pokeapi.co/api/v2/pokemon/389/,"grass, ground","overgrow, shell-armor"
+chimchar,https://pokeapi.co/api/v2/pokemon/390/,fire,"blaze, iron-fist"
+monferno,https://pokeapi.co/api/v2/pokemon/391/,"fire, fighting","blaze, iron-fist"
+infernape,https://pokeapi.co/api/v2/pokemon/392/,"fire, fighting","blaze, iron-fist"
+piplup,https://pokeapi.co/api/v2/pokemon/393/,water,"torrent, competitive"
+prinplup,https://pokeapi.co/api/v2/pokemon/394/,water,"torrent, competitive"
+empoleon,https://pokeapi.co/api/v2/pokemon/395/,"water, steel","torrent, competitive"
+starly,https://pokeapi.co/api/v2/pokemon/396/,"normal, flying","keen-eye, reckless"
+staravia,https://pokeapi.co/api/v2/pokemon/397/,"normal, flying","intimidate, reckless"
+staraptor,https://pokeapi.co/api/v2/pokemon/398/,"normal, flying","intimidate, reckless"
+bidoof,https://pokeapi.co/api/v2/pokemon/399/,normal,"simple, unaware, moody"
+bibarel,https://pokeapi.co/api/v2/pokemon/400/,"normal, water","simple, unaware, moody"
+kricketot,https://pokeapi.co/api/v2/pokemon/401/,bug,"shed-skin, run-away"
+kricketune,https://pokeapi.co/api/v2/pokemon/402/,bug,"swarm, technician"
+shinx,https://pokeapi.co/api/v2/pokemon/403/,electric,"rivalry, intimidate, guts"
+luxio,https://pokeapi.co/api/v2/pokemon/404/,electric,"rivalry, intimidate, guts"
+luxray,https://pokeapi.co/api/v2/pokemon/405/,electric,"rivalry, intimidate, guts"
+budew,https://pokeapi.co/api/v2/pokemon/406/,"grass, poison","natural-cure, poison-point, leaf-guard"
+roserade,https://pokeapi.co/api/v2/pokemon/407/,"grass, poison","natural-cure, poison-point, technician"
+cranidos,https://pokeapi.co/api/v2/pokemon/408/,rock,"mold-breaker, sheer-force"
+rampardos,https://pokeapi.co/api/v2/pokemon/409/,rock,"mold-breaker, sheer-force"
+shieldon,https://pokeapi.co/api/v2/pokemon/410/,"rock, steel","sturdy, soundproof"
+bastiodon,https://pokeapi.co/api/v2/pokemon/411/,"rock, steel","sturdy, soundproof"
+burmy,https://pokeapi.co/api/v2/pokemon/412/,bug,"shed-skin, overcoat"
+wormadam-plant,https://pokeapi.co/api/v2/pokemon/413/,"bug, grass","anticipation, overcoat"
+mothim,https://pokeapi.co/api/v2/pokemon/414/,"bug, flying","swarm, tinted-lens"
+combee,https://pokeapi.co/api/v2/pokemon/415/,"bug, flying","honey-gather, hustle"
+vespiquen,https://pokeapi.co/api/v2/pokemon/416/,"bug, flying","pressure, unnerve"
+pachirisu,https://pokeapi.co/api/v2/pokemon/417/,electric,"run-away, pickup, volt-absorb"
+buizel,https://pokeapi.co/api/v2/pokemon/418/,water,"swift-swim, water-veil"
+floatzel,https://pokeapi.co/api/v2/pokemon/419/,water,"swift-swim, water-veil"
+cherubi,https://pokeapi.co/api/v2/pokemon/420/,grass,chlorophyll
+cherrim,https://pokeapi.co/api/v2/pokemon/421/,grass,flower-gift
+shellos,https://pokeapi.co/api/v2/pokemon/422/,water,"sticky-hold, storm-drain, sand-force"
+gastrodon,https://pokeapi.co/api/v2/pokemon/423/,"water, ground","sticky-hold, storm-drain, sand-force"
+ambipom,https://pokeapi.co/api/v2/pokemon/424/,normal,"technician, pickup, skill-link"
+drifloon,https://pokeapi.co/api/v2/pokemon/425/,"ghost, flying","aftermath, unburden, flare-boost"
+drifblim,https://pokeapi.co/api/v2/pokemon/426/,"ghost, flying","aftermath, unburden, flare-boost"
+buneary,https://pokeapi.co/api/v2/pokemon/427/,normal,"run-away, klutz, limber"
+lopunny,https://pokeapi.co/api/v2/pokemon/428/,normal,"cute-charm, klutz, limber"
+mismagius,https://pokeapi.co/api/v2/pokemon/429/,ghost,levitate
+honchkrow,https://pokeapi.co/api/v2/pokemon/430/,"dark, flying","insomnia, super-luck, moxie"
+glameow,https://pokeapi.co/api/v2/pokemon/431/,normal,"limber, own-tempo, keen-eye"
+purugly,https://pokeapi.co/api/v2/pokemon/432/,normal,"thick-fat, own-tempo, defiant"
+chingling,https://pokeapi.co/api/v2/pokemon/433/,psychic,levitate
+stunky,https://pokeapi.co/api/v2/pokemon/434/,"poison, dark","stench, aftermath, keen-eye"
+skuntank,https://pokeapi.co/api/v2/pokemon/435/,"poison, dark","stench, aftermath, keen-eye"
+bronzor,https://pokeapi.co/api/v2/pokemon/436/,"steel, psychic","levitate, heatproof, heavy-metal"
+bronzong,https://pokeapi.co/api/v2/pokemon/437/,"steel, psychic","levitate, heatproof, heavy-metal"
+bonsly,https://pokeapi.co/api/v2/pokemon/438/,rock,"sturdy, rock-head, rattled"
+mime-jr,https://pokeapi.co/api/v2/pokemon/439/,"psychic, fairy","soundproof, filter, technician"
+happiny,https://pokeapi.co/api/v2/pokemon/440/,normal,"natural-cure, serene-grace, friend-guard"
+chatot,https://pokeapi.co/api/v2/pokemon/441/,"normal, flying","keen-eye, tangled-feet, big-pecks"
+spiritomb,https://pokeapi.co/api/v2/pokemon/442/,"ghost, dark","pressure, infiltrator"
+gible,https://pokeapi.co/api/v2/pokemon/443/,"dragon, ground","sand-veil, rough-skin"
+gabite,https://pokeapi.co/api/v2/pokemon/444/,"dragon, ground","sand-veil, rough-skin"
+garchomp,https://pokeapi.co/api/v2/pokemon/445/,"dragon, ground","sand-veil, rough-skin"
+munchlax,https://pokeapi.co/api/v2/pokemon/446/,normal,"pickup, thick-fat, gluttony"
+riolu,https://pokeapi.co/api/v2/pokemon/447/,fighting,"steadfast, inner-focus, prankster"
+lucario,https://pokeapi.co/api/v2/pokemon/448/,"fighting, steel","steadfast, inner-focus, justified"
+hippopotas,https://pokeapi.co/api/v2/pokemon/449/,ground,"sand-stream, sand-force"
+hippowdon,https://pokeapi.co/api/v2/pokemon/450/,ground,"sand-stream, sand-force"
+skorupi,https://pokeapi.co/api/v2/pokemon/451/,"poison, bug","battle-armor, sniper, keen-eye"
+drapion,https://pokeapi.co/api/v2/pokemon/452/,"poison, dark","battle-armor, sniper, keen-eye"
+croagunk,https://pokeapi.co/api/v2/pokemon/453/,"poison, fighting","anticipation, dry-skin, poison-touch"
+toxicroak,https://pokeapi.co/api/v2/pokemon/454/,"poison, fighting","anticipation, dry-skin, poison-touch"
+carnivine,https://pokeapi.co/api/v2/pokemon/455/,grass,levitate
+finneon,https://pokeapi.co/api/v2/pokemon/456/,water,"swift-swim, storm-drain, water-veil"
+lumineon,https://pokeapi.co/api/v2/pokemon/457/,water,"swift-swim, storm-drain, water-veil"
+mantyke,https://pokeapi.co/api/v2/pokemon/458/,"water, flying","swift-swim, water-absorb, water-veil"
+snover,https://pokeapi.co/api/v2/pokemon/459/,"grass, ice","snow-warning, soundproof"
+abomasnow,https://pokeapi.co/api/v2/pokemon/460/,"grass, ice","snow-warning, soundproof"
+weavile,https://pokeapi.co/api/v2/pokemon/461/,"dark, ice","pressure, pickpocket"
+magnezone,https://pokeapi.co/api/v2/pokemon/462/,"electric, steel","magnet-pull, sturdy, analytic"
+lickilicky,https://pokeapi.co/api/v2/pokemon/463/,normal,"own-tempo, oblivious, cloud-nine"
+rhyperior,https://pokeapi.co/api/v2/pokemon/464/,"ground, rock","lightning-rod, solid-rock, reckless"
+tangrowth,https://pokeapi.co/api/v2/pokemon/465/,grass,"chlorophyll, leaf-guard, regenerator"
+electivire,https://pokeapi.co/api/v2/pokemon/466/,electric,"motor-drive, vital-spirit"
+magmortar,https://pokeapi.co/api/v2/pokemon/467/,fire,"flame-body, vital-spirit"
+togekiss,https://pokeapi.co/api/v2/pokemon/468/,"fairy, flying","hustle, serene-grace, super-luck"
+yanmega,https://pokeapi.co/api/v2/pokemon/469/,"bug, flying","speed-boost, tinted-lens, frisk"
+leafeon,https://pokeapi.co/api/v2/pokemon/470/,grass,"leaf-guard, chlorophyll"
+glaceon,https://pokeapi.co/api/v2/pokemon/471/,ice,"snow-cloak, ice-body"
+gliscor,https://pokeapi.co/api/v2/pokemon/472/,"ground, flying","hyper-cutter, sand-veil, poison-heal"
+mamoswine,https://pokeapi.co/api/v2/pokemon/473/,"ice, ground","oblivious, snow-cloak, thick-fat"
+porygon-z,https://pokeapi.co/api/v2/pokemon/474/,normal,"adaptability, download, analytic"
+gallade,https://pokeapi.co/api/v2/pokemon/475/,"psychic, fighting","steadfast, sharpness, justified"
+probopass,https://pokeapi.co/api/v2/pokemon/476/,"rock, steel","sturdy, magnet-pull, sand-force"
+dusknoir,https://pokeapi.co/api/v2/pokemon/477/,ghost,"pressure, frisk"
+froslass,https://pokeapi.co/api/v2/pokemon/478/,"ice, ghost","snow-cloak, cursed-body"
+rotom,https://pokeapi.co/api/v2/pokemon/479/,"electric, ghost",levitate
+uxie,https://pokeapi.co/api/v2/pokemon/480/,psychic,levitate
+mesprit,https://pokeapi.co/api/v2/pokemon/481/,psychic,levitate
+azelf,https://pokeapi.co/api/v2/pokemon/482/,psychic,levitate
+dialga,https://pokeapi.co/api/v2/pokemon/483/,"steel, dragon","pressure, telepathy"
+palkia,https://pokeapi.co/api/v2/pokemon/484/,"water, dragon","pressure, telepathy"
+heatran,https://pokeapi.co/api/v2/pokemon/485/,"fire, steel","flash-fire, flame-body"
+regigigas,https://pokeapi.co/api/v2/pokemon/486/,normal,slow-start
+giratina-altered,https://pokeapi.co/api/v2/pokemon/487/,"ghost, dragon","pressure, telepathy"
+cresselia,https://pokeapi.co/api/v2/pokemon/488/,psychic,levitate
+phione,https://pokeapi.co/api/v2/pokemon/489/,water,hydration
+manaphy,https://pokeapi.co/api/v2/pokemon/490/,water,hydration
+darkrai,https://pokeapi.co/api/v2/pokemon/491/,dark,bad-dreams
+shaymin-land,https://pokeapi.co/api/v2/pokemon/492/,grass,natural-cure
+arceus,https://pokeapi.co/api/v2/pokemon/493/,normal,multitype
+victini,https://pokeapi.co/api/v2/pokemon/494/,"psychic, fire",victory-star
+snivy,https://pokeapi.co/api/v2/pokemon/495/,grass,"overgrow, contrary"
+servine,https://pokeapi.co/api/v2/pokemon/496/,grass,"overgrow, contrary"
+serperior,https://pokeapi.co/api/v2/pokemon/497/,grass,"overgrow, contrary"
+tepig,https://pokeapi.co/api/v2/pokemon/498/,fire,"blaze, thick-fat"
+pignite,https://pokeapi.co/api/v2/pokemon/499/,"fire, fighting","blaze, thick-fat"
+emboar,https://pokeapi.co/api/v2/pokemon/500/,"fire, fighting","blaze, reckless"
+oshawott,https://pokeapi.co/api/v2/pokemon/501/,water,"torrent, shell-armor"
+dewott,https://pokeapi.co/api/v2/pokemon/502/,water,"torrent, shell-armor"
+samurott,https://pokeapi.co/api/v2/pokemon/503/,water,"torrent, shell-armor"
+patrat,https://pokeapi.co/api/v2/pokemon/504/,normal,"run-away, keen-eye, analytic"
+watchog,https://pokeapi.co/api/v2/pokemon/505/,normal,"illuminate, keen-eye, analytic"
+lillipup,https://pokeapi.co/api/v2/pokemon/506/,normal,"vital-spirit, pickup, run-away"
+herdier,https://pokeapi.co/api/v2/pokemon/507/,normal,"intimidate, sand-rush, scrappy"
+stoutland,https://pokeapi.co/api/v2/pokemon/508/,normal,"intimidate, sand-rush, scrappy"
+purrloin,https://pokeapi.co/api/v2/pokemon/509/,dark,"limber, unburden, prankster"
+liepard,https://pokeapi.co/api/v2/pokemon/510/,dark,"limber, unburden, prankster"
+pansage,https://pokeapi.co/api/v2/pokemon/511/,grass,"gluttony, overgrow"
+simisage,https://pokeapi.co/api/v2/pokemon/512/,grass,"gluttony, overgrow"
+pansear,https://pokeapi.co/api/v2/pokemon/513/,fire,"gluttony, blaze"
+simisear,https://pokeapi.co/api/v2/pokemon/514/,fire,"gluttony, blaze"
+panpour,https://pokeapi.co/api/v2/pokemon/515/,water,"gluttony, torrent"
+simipour,https://pokeapi.co/api/v2/pokemon/516/,water,"gluttony, torrent"
+munna,https://pokeapi.co/api/v2/pokemon/517/,psychic,"forewarn, synchronize, telepathy"
+musharna,https://pokeapi.co/api/v2/pokemon/518/,psychic,"forewarn, synchronize, telepathy"
+pidove,https://pokeapi.co/api/v2/pokemon/519/,"normal, flying","big-pecks, super-luck, rivalry"
+tranquill,https://pokeapi.co/api/v2/pokemon/520/,"normal, flying","big-pecks, super-luck, rivalry"
+unfezant,https://pokeapi.co/api/v2/pokemon/521/,"normal, flying","big-pecks, super-luck, rivalry"
+blitzle,https://pokeapi.co/api/v2/pokemon/522/,electric,"lightning-rod, motor-drive, sap-sipper"
+zebstrika,https://pokeapi.co/api/v2/pokemon/523/,electric,"lightning-rod, motor-drive, sap-sipper"
+roggenrola,https://pokeapi.co/api/v2/pokemon/524/,rock,"sturdy, weak-armor, sand-force"
+boldore,https://pokeapi.co/api/v2/pokemon/525/,rock,"sturdy, weak-armor, sand-force"
+gigalith,https://pokeapi.co/api/v2/pokemon/526/,rock,"sturdy, sand-stream, sand-force"
+woobat,https://pokeapi.co/api/v2/pokemon/527/,"psychic, flying","unaware, klutz, simple"
+swoobat,https://pokeapi.co/api/v2/pokemon/528/,"psychic, flying","unaware, klutz, simple"
+drilbur,https://pokeapi.co/api/v2/pokemon/529/,ground,"sand-rush, sand-force, mold-breaker"
+excadrill,https://pokeapi.co/api/v2/pokemon/530/,"ground, steel","sand-rush, sand-force, mold-breaker"
+audino,https://pokeapi.co/api/v2/pokemon/531/,normal,"healer, regenerator, klutz"
+timburr,https://pokeapi.co/api/v2/pokemon/532/,fighting,"guts, sheer-force, iron-fist"
+gurdurr,https://pokeapi.co/api/v2/pokemon/533/,fighting,"guts, sheer-force, iron-fist"
+conkeldurr,https://pokeapi.co/api/v2/pokemon/534/,fighting,"guts, sheer-force, iron-fist"
+tympole,https://pokeapi.co/api/v2/pokemon/535/,water,"swift-swim, hydration, water-absorb"
+palpitoad,https://pokeapi.co/api/v2/pokemon/536/,"water, ground","swift-swim, hydration, water-absorb"
+seismitoad,https://pokeapi.co/api/v2/pokemon/537/,"water, ground","swift-swim, poison-touch, water-absorb"
+throh,https://pokeapi.co/api/v2/pokemon/538/,fighting,"guts, inner-focus, mold-breaker"
+sawk,https://pokeapi.co/api/v2/pokemon/539/,fighting,"sturdy, inner-focus, mold-breaker"
+sewaddle,https://pokeapi.co/api/v2/pokemon/540/,"bug, grass","swarm, chlorophyll, overcoat"
+swadloon,https://pokeapi.co/api/v2/pokemon/541/,"bug, grass","leaf-guard, chlorophyll, overcoat"
+leavanny,https://pokeapi.co/api/v2/pokemon/542/,"bug, grass","swarm, chlorophyll, overcoat"
+venipede,https://pokeapi.co/api/v2/pokemon/543/,"bug, poison","poison-point, swarm, speed-boost"
+whirlipede,https://pokeapi.co/api/v2/pokemon/544/,"bug, poison","poison-point, swarm, speed-boost"
+scolipede,https://pokeapi.co/api/v2/pokemon/545/,"bug, poison","poison-point, swarm, speed-boost"
+cottonee,https://pokeapi.co/api/v2/pokemon/546/,"grass, fairy","prankster, infiltrator, chlorophyll"
+whimsicott,https://pokeapi.co/api/v2/pokemon/547/,"grass, fairy","prankster, infiltrator, chlorophyll"
+petilil,https://pokeapi.co/api/v2/pokemon/548/,grass,"chlorophyll, own-tempo, leaf-guard"
+lilligant,https://pokeapi.co/api/v2/pokemon/549/,grass,"chlorophyll, own-tempo, leaf-guard"
+basculin-red-striped,https://pokeapi.co/api/v2/pokemon/550/,water,"reckless, adaptability, mold-breaker"
+sandile,https://pokeapi.co/api/v2/pokemon/551/,"ground, dark","intimidate, moxie, anger-point"
+krokorok,https://pokeapi.co/api/v2/pokemon/552/,"ground, dark","intimidate, moxie, anger-point"
+krookodile,https://pokeapi.co/api/v2/pokemon/553/,"ground, dark","intimidate, moxie, anger-point"
+darumaka,https://pokeapi.co/api/v2/pokemon/554/,fire,"hustle, inner-focus"
+darmanitan-standard,https://pokeapi.co/api/v2/pokemon/555/,fire,"sheer-force, zen-mode"
+maractus,https://pokeapi.co/api/v2/pokemon/556/,grass,"water-absorb, chlorophyll, storm-drain"
+dwebble,https://pokeapi.co/api/v2/pokemon/557/,"bug, rock","sturdy, shell-armor, weak-armor"
+crustle,https://pokeapi.co/api/v2/pokemon/558/,"bug, rock","sturdy, shell-armor, weak-armor"
+scraggy,https://pokeapi.co/api/v2/pokemon/559/,"dark, fighting","shed-skin, moxie, intimidate"
+scrafty,https://pokeapi.co/api/v2/pokemon/560/,"dark, fighting","shed-skin, moxie, intimidate"
+sigilyph,https://pokeapi.co/api/v2/pokemon/561/,"psychic, flying","wonder-skin, magic-guard, tinted-lens"
+yamask,https://pokeapi.co/api/v2/pokemon/562/,ghost,mummy
+cofagrigus,https://pokeapi.co/api/v2/pokemon/563/,ghost,mummy
+tirtouga,https://pokeapi.co/api/v2/pokemon/564/,"water, rock","solid-rock, sturdy, swift-swim"
+carracosta,https://pokeapi.co/api/v2/pokemon/565/,"water, rock","solid-rock, sturdy, swift-swim"
+archen,https://pokeapi.co/api/v2/pokemon/566/,"rock, flying",defeatist
+archeops,https://pokeapi.co/api/v2/pokemon/567/,"rock, flying",defeatist
+trubbish,https://pokeapi.co/api/v2/pokemon/568/,poison,"stench, sticky-hold, aftermath"
+garbodor,https://pokeapi.co/api/v2/pokemon/569/,poison,"stench, weak-armor, aftermath"
+zorua,https://pokeapi.co/api/v2/pokemon/570/,dark,illusion
+zoroark,https://pokeapi.co/api/v2/pokemon/571/,dark,illusion
+minccino,https://pokeapi.co/api/v2/pokemon/572/,normal,"cute-charm, technician, skill-link"
+cinccino,https://pokeapi.co/api/v2/pokemon/573/,normal,"cute-charm, technician, skill-link"
+gothita,https://pokeapi.co/api/v2/pokemon/574/,psychic,"frisk, competitive, shadow-tag"
+gothorita,https://pokeapi.co/api/v2/pokemon/575/,psychic,"frisk, competitive, shadow-tag"
+gothitelle,https://pokeapi.co/api/v2/pokemon/576/,psychic,"frisk, competitive, shadow-tag"
+solosis,https://pokeapi.co/api/v2/pokemon/577/,psychic,"overcoat, magic-guard, regenerator"
+duosion,https://pokeapi.co/api/v2/pokemon/578/,psychic,"overcoat, magic-guard, regenerator"
+reuniclus,https://pokeapi.co/api/v2/pokemon/579/,psychic,"overcoat, magic-guard, regenerator"
+ducklett,https://pokeapi.co/api/v2/pokemon/580/,"water, flying","keen-eye, big-pecks, hydration"
+swanna,https://pokeapi.co/api/v2/pokemon/581/,"water, flying","keen-eye, big-pecks, hydration"
+vanillite,https://pokeapi.co/api/v2/pokemon/582/,ice,"ice-body, snow-cloak, weak-armor"
+vanillish,https://pokeapi.co/api/v2/pokemon/583/,ice,"ice-body, snow-cloak, weak-armor"
+vanilluxe,https://pokeapi.co/api/v2/pokemon/584/,ice,"ice-body, snow-warning, weak-armor"
+deerling,https://pokeapi.co/api/v2/pokemon/585/,"normal, grass","chlorophyll, sap-sipper, serene-grace"
+sawsbuck,https://pokeapi.co/api/v2/pokemon/586/,"normal, grass","chlorophyll, sap-sipper, serene-grace"
+emolga,https://pokeapi.co/api/v2/pokemon/587/,"electric, flying","static, motor-drive"
+karrablast,https://pokeapi.co/api/v2/pokemon/588/,bug,"swarm, shed-skin, no-guard"
+escavalier,https://pokeapi.co/api/v2/pokemon/589/,"bug, steel","swarm, shell-armor, overcoat"
+foongus,https://pokeapi.co/api/v2/pokemon/590/,"grass, poison","effect-spore, regenerator"
+amoonguss,https://pokeapi.co/api/v2/pokemon/591/,"grass, poison","effect-spore, regenerator"
+frillish,https://pokeapi.co/api/v2/pokemon/592/,"water, ghost","water-absorb, cursed-body, damp"
+jellicent,https://pokeapi.co/api/v2/pokemon/593/,"water, ghost","water-absorb, cursed-body, damp"
+alomomola,https://pokeapi.co/api/v2/pokemon/594/,water,"healer, hydration, regenerator"
+joltik,https://pokeapi.co/api/v2/pokemon/595/,"bug, electric","compound-eyes, unnerve, swarm"
+galvantula,https://pokeapi.co/api/v2/pokemon/596/,"bug, electric","compound-eyes, unnerve, swarm"
+ferroseed,https://pokeapi.co/api/v2/pokemon/597/,"grass, steel",iron-barbs
+ferrothorn,https://pokeapi.co/api/v2/pokemon/598/,"grass, steel","iron-barbs, anticipation"
+klink,https://pokeapi.co/api/v2/pokemon/599/,steel,"plus, minus, clear-body"
+klang,https://pokeapi.co/api/v2/pokemon/600/,steel,"plus, minus, clear-body"
+klinklang,https://pokeapi.co/api/v2/pokemon/601/,steel,"plus, minus, clear-body"
+tynamo,https://pokeapi.co/api/v2/pokemon/602/,electric,levitate
+eelektrik,https://pokeapi.co/api/v2/pokemon/603/,electric,levitate
+eelektross,https://pokeapi.co/api/v2/pokemon/604/,electric,levitate
+elgyem,https://pokeapi.co/api/v2/pokemon/605/,psychic,"telepathy, synchronize, analytic"
+beheeyem,https://pokeapi.co/api/v2/pokemon/606/,psychic,"telepathy, synchronize, analytic"
+litwick,https://pokeapi.co/api/v2/pokemon/607/,"ghost, fire","flash-fire, flame-body, infiltrator"
+lampent,https://pokeapi.co/api/v2/pokemon/608/,"ghost, fire","flash-fire, flame-body, infiltrator"
+chandelure,https://pokeapi.co/api/v2/pokemon/609/,"ghost, fire","flash-fire, flame-body, infiltrator"
+axew,https://pokeapi.co/api/v2/pokemon/610/,dragon,"rivalry, mold-breaker, unnerve"
+fraxure,https://pokeapi.co/api/v2/pokemon/611/,dragon,"rivalry, mold-breaker, unnerve"
+haxorus,https://pokeapi.co/api/v2/pokemon/612/,dragon,"rivalry, mold-breaker, unnerve"
+cubchoo,https://pokeapi.co/api/v2/pokemon/613/,ice,"snow-cloak, slush-rush, rattled"
+beartic,https://pokeapi.co/api/v2/pokemon/614/,ice,"snow-cloak, slush-rush, swift-swim"
+cryogonal,https://pokeapi.co/api/v2/pokemon/615/,ice,levitate
+shelmet,https://pokeapi.co/api/v2/pokemon/616/,bug,"hydration, shell-armor, overcoat"
+accelgor,https://pokeapi.co/api/v2/pokemon/617/,bug,"hydration, sticky-hold, unburden"
+stunfisk,https://pokeapi.co/api/v2/pokemon/618/,"ground, electric","static, limber, sand-veil"
+mienfoo,https://pokeapi.co/api/v2/pokemon/619/,fighting,"inner-focus, regenerator, reckless"
+mienshao,https://pokeapi.co/api/v2/pokemon/620/,fighting,"inner-focus, regenerator, reckless"
+druddigon,https://pokeapi.co/api/v2/pokemon/621/,dragon,"rough-skin, sheer-force, mold-breaker"
+golett,https://pokeapi.co/api/v2/pokemon/622/,"ground, ghost","iron-fist, klutz, no-guard"
+golurk,https://pokeapi.co/api/v2/pokemon/623/,"ground, ghost","iron-fist, klutz, no-guard"
+pawniard,https://pokeapi.co/api/v2/pokemon/624/,"dark, steel","defiant, inner-focus, pressure"
+bisharp,https://pokeapi.co/api/v2/pokemon/625/,"dark, steel","defiant, inner-focus, pressure"
+bouffalant,https://pokeapi.co/api/v2/pokemon/626/,normal,"reckless, sap-sipper, soundproof"
+rufflet,https://pokeapi.co/api/v2/pokemon/627/,"normal, flying","keen-eye, sheer-force, hustle"
+braviary,https://pokeapi.co/api/v2/pokemon/628/,"normal, flying","keen-eye, sheer-force, defiant"
+vullaby,https://pokeapi.co/api/v2/pokemon/629/,"dark, flying","big-pecks, overcoat, weak-armor"
+mandibuzz,https://pokeapi.co/api/v2/pokemon/630/,"dark, flying","big-pecks, overcoat, weak-armor"
+heatmor,https://pokeapi.co/api/v2/pokemon/631/,fire,"gluttony, flash-fire, white-smoke"
+durant,https://pokeapi.co/api/v2/pokemon/632/,"bug, steel","swarm, hustle, truant"
+deino,https://pokeapi.co/api/v2/pokemon/633/,"dark, dragon",hustle
+zweilous,https://pokeapi.co/api/v2/pokemon/634/,"dark, dragon",hustle
+hydreigon,https://pokeapi.co/api/v2/pokemon/635/,"dark, dragon",levitate
+larvesta,https://pokeapi.co/api/v2/pokemon/636/,"bug, fire","flame-body, swarm"
+volcarona,https://pokeapi.co/api/v2/pokemon/637/,"bug, fire","flame-body, swarm"
+cobalion,https://pokeapi.co/api/v2/pokemon/638/,"steel, fighting",justified
+terrakion,https://pokeapi.co/api/v2/pokemon/639/,"rock, fighting",justified
+virizion,https://pokeapi.co/api/v2/pokemon/640/,"grass, fighting",justified
+tornadus-incarnate,https://pokeapi.co/api/v2/pokemon/641/,flying,"prankster, defiant"
+thundurus-incarnate,https://pokeapi.co/api/v2/pokemon/642/,"electric, flying","prankster, defiant"
+reshiram,https://pokeapi.co/api/v2/pokemon/643/,"dragon, fire",turboblaze
+zekrom,https://pokeapi.co/api/v2/pokemon/644/,"dragon, electric",teravolt
+landorus-incarnate,https://pokeapi.co/api/v2/pokemon/645/,"ground, flying","sand-force, sheer-force"
+kyurem,https://pokeapi.co/api/v2/pokemon/646/,"dragon, ice",pressure
+keldeo-ordinary,https://pokeapi.co/api/v2/pokemon/647/,"water, fighting",justified
+meloetta-aria,https://pokeapi.co/api/v2/pokemon/648/,"normal, psychic",serene-grace
+genesect,https://pokeapi.co/api/v2/pokemon/649/,"bug, steel",download
+chespin,https://pokeapi.co/api/v2/pokemon/650/,grass,"overgrow, bulletproof"
+quilladin,https://pokeapi.co/api/v2/pokemon/651/,grass,"overgrow, bulletproof"
+chesnaught,https://pokeapi.co/api/v2/pokemon/652/,"grass, fighting","overgrow, bulletproof"
+fennekin,https://pokeapi.co/api/v2/pokemon/653/,fire,"blaze, magician"
+braixen,https://pokeapi.co/api/v2/pokemon/654/,fire,"blaze, magician"
+delphox,https://pokeapi.co/api/v2/pokemon/655/,"fire, psychic","blaze, magician"
+froakie,https://pokeapi.co/api/v2/pokemon/656/,water,"torrent, protean"
+frogadier,https://pokeapi.co/api/v2/pokemon/657/,water,"torrent, protean"
+greninja,https://pokeapi.co/api/v2/pokemon/658/,"water, dark","torrent, protean"
+bunnelby,https://pokeapi.co/api/v2/pokemon/659/,normal,"pickup, cheek-pouch, huge-power"
+diggersby,https://pokeapi.co/api/v2/pokemon/660/,"normal, ground","pickup, cheek-pouch, huge-power"
+fletchling,https://pokeapi.co/api/v2/pokemon/661/,"normal, flying","big-pecks, gale-wings"
+fletchinder,https://pokeapi.co/api/v2/pokemon/662/,"fire, flying","flame-body, gale-wings"
+talonflame,https://pokeapi.co/api/v2/pokemon/663/,"fire, flying","flame-body, gale-wings"
+scatterbug,https://pokeapi.co/api/v2/pokemon/664/,bug,"shield-dust, compound-eyes, friend-guard"
+spewpa,https://pokeapi.co/api/v2/pokemon/665/,bug,"shed-skin, friend-guard"
+vivillon,https://pokeapi.co/api/v2/pokemon/666/,"bug, flying","shield-dust, compound-eyes, friend-guard"
+litleo,https://pokeapi.co/api/v2/pokemon/667/,"fire, normal","rivalry, unnerve, moxie"
+pyroar,https://pokeapi.co/api/v2/pokemon/668/,"fire, normal","rivalry, unnerve, moxie"
+flabebe,https://pokeapi.co/api/v2/pokemon/669/,fairy,"flower-veil, symbiosis"
+floette,https://pokeapi.co/api/v2/pokemon/670/,fairy,"flower-veil, symbiosis"
+florges,https://pokeapi.co/api/v2/pokemon/671/,fairy,"flower-veil, symbiosis"
+skiddo,https://pokeapi.co/api/v2/pokemon/672/,grass,"sap-sipper, grass-pelt"
+gogoat,https://pokeapi.co/api/v2/pokemon/673/,grass,"sap-sipper, grass-pelt"
+pancham,https://pokeapi.co/api/v2/pokemon/674/,fighting,"iron-fist, mold-breaker, scrappy"
+pangoro,https://pokeapi.co/api/v2/pokemon/675/,"fighting, dark","iron-fist, mold-breaker, scrappy"
+furfrou,https://pokeapi.co/api/v2/pokemon/676/,normal,fur-coat
+espurr,https://pokeapi.co/api/v2/pokemon/677/,psychic,"keen-eye, infiltrator, own-tempo"
+meowstic-male,https://pokeapi.co/api/v2/pokemon/678/,psychic,"keen-eye, infiltrator, prankster"
+honedge,https://pokeapi.co/api/v2/pokemon/679/,"steel, ghost",no-guard
+doublade,https://pokeapi.co/api/v2/pokemon/680/,"steel, ghost",no-guard
+aegislash-shield,https://pokeapi.co/api/v2/pokemon/681/,"steel, ghost",stance-change
+spritzee,https://pokeapi.co/api/v2/pokemon/682/,fairy,"healer, aroma-veil"
+aromatisse,https://pokeapi.co/api/v2/pokemon/683/,fairy,"healer, aroma-veil"
+swirlix,https://pokeapi.co/api/v2/pokemon/684/,fairy,"sweet-veil, unburden"
+slurpuff,https://pokeapi.co/api/v2/pokemon/685/,fairy,"sweet-veil, unburden"
+inkay,https://pokeapi.co/api/v2/pokemon/686/,"dark, psychic","contrary, suction-cups, infiltrator"
+malamar,https://pokeapi.co/api/v2/pokemon/687/,"dark, psychic","contrary, suction-cups, infiltrator"
+binacle,https://pokeapi.co/api/v2/pokemon/688/,"rock, water","tough-claws, sniper, pickpocket"
+barbaracle,https://pokeapi.co/api/v2/pokemon/689/,"rock, water","tough-claws, sniper, pickpocket"
+skrelp,https://pokeapi.co/api/v2/pokemon/690/,"poison, water","poison-point, poison-touch, adaptability"
+dragalge,https://pokeapi.co/api/v2/pokemon/691/,"poison, dragon","poison-point, poison-touch, adaptability"
+clauncher,https://pokeapi.co/api/v2/pokemon/692/,water,mega-launcher
+clawitzer,https://pokeapi.co/api/v2/pokemon/693/,water,mega-launcher
+helioptile,https://pokeapi.co/api/v2/pokemon/694/,"electric, normal","dry-skin, sand-veil, solar-power"
+heliolisk,https://pokeapi.co/api/v2/pokemon/695/,"electric, normal","dry-skin, sand-veil, solar-power"
+tyrunt,https://pokeapi.co/api/v2/pokemon/696/,"rock, dragon","strong-jaw, sturdy"
+tyrantrum,https://pokeapi.co/api/v2/pokemon/697/,"rock, dragon","strong-jaw, rock-head"
+amaura,https://pokeapi.co/api/v2/pokemon/698/,"rock, ice","refrigerate, snow-warning"
+aurorus,https://pokeapi.co/api/v2/pokemon/699/,"rock, ice","refrigerate, snow-warning"
+sylveon,https://pokeapi.co/api/v2/pokemon/700/,fairy,"cute-charm, pixilate"
+hawlucha,https://pokeapi.co/api/v2/pokemon/701/,"fighting, flying","limber, unburden, mold-breaker"
+dedenne,https://pokeapi.co/api/v2/pokemon/702/,"electric, fairy","cheek-pouch, pickup, plus"
+carbink,https://pokeapi.co/api/v2/pokemon/703/,"rock, fairy","clear-body, sturdy"
+goomy,https://pokeapi.co/api/v2/pokemon/704/,dragon,"sap-sipper, hydration, gooey"
+sliggoo,https://pokeapi.co/api/v2/pokemon/705/,dragon,"sap-sipper, hydration, gooey"
+goodra,https://pokeapi.co/api/v2/pokemon/706/,dragon,"sap-sipper, hydration, gooey"
+klefki,https://pokeapi.co/api/v2/pokemon/707/,"steel, fairy","prankster, magician"
+phantump,https://pokeapi.co/api/v2/pokemon/708/,"ghost, grass","natural-cure, frisk, harvest"
+trevenant,https://pokeapi.co/api/v2/pokemon/709/,"ghost, grass","natural-cure, frisk, harvest"
+pumpkaboo-average,https://pokeapi.co/api/v2/pokemon/710/,"ghost, grass","pickup, frisk, insomnia"
+gourgeist-average,https://pokeapi.co/api/v2/pokemon/711/,"ghost, grass","pickup, frisk, insomnia"
+bergmite,https://pokeapi.co/api/v2/pokemon/712/,ice,"own-tempo, ice-body, sturdy"
+avalugg,https://pokeapi.co/api/v2/pokemon/713/,ice,"own-tempo, ice-body, sturdy"
+noibat,https://pokeapi.co/api/v2/pokemon/714/,"flying, dragon","frisk, infiltrator, telepathy"
+noivern,https://pokeapi.co/api/v2/pokemon/715/,"flying, dragon","frisk, infiltrator, telepathy"
+xerneas,https://pokeapi.co/api/v2/pokemon/716/,fairy,fairy-aura
+yveltal,https://pokeapi.co/api/v2/pokemon/717/,"dark, flying",dark-aura
+zygarde-50,https://pokeapi.co/api/v2/pokemon/718/,"dragon, ground",aura-break
+diancie,https://pokeapi.co/api/v2/pokemon/719/,"rock, fairy",clear-body
+hoopa,https://pokeapi.co/api/v2/pokemon/720/,"psychic, ghost",magician
+volcanion,https://pokeapi.co/api/v2/pokemon/721/,"fire, water",water-absorb
+rowlet,https://pokeapi.co/api/v2/pokemon/722/,"grass, flying","overgrow, long-reach"
+dartrix,https://pokeapi.co/api/v2/pokemon/723/,"grass, flying","overgrow, long-reach"
+decidueye,https://pokeapi.co/api/v2/pokemon/724/,"grass, ghost","overgrow, long-reach"
+litten,https://pokeapi.co/api/v2/pokemon/725/,fire,"blaze, intimidate"
+torracat,https://pokeapi.co/api/v2/pokemon/726/,fire,"blaze, intimidate"
+incineroar,https://pokeapi.co/api/v2/pokemon/727/,"fire, dark","blaze, intimidate"
+popplio,https://pokeapi.co/api/v2/pokemon/728/,water,"torrent, liquid-voice"
+brionne,https://pokeapi.co/api/v2/pokemon/729/,water,"torrent, liquid-voice"
+primarina,https://pokeapi.co/api/v2/pokemon/730/,"water, fairy","torrent, liquid-voice"
+pikipek,https://pokeapi.co/api/v2/pokemon/731/,"normal, flying","keen-eye, skill-link, pickup"
+trumbeak,https://pokeapi.co/api/v2/pokemon/732/,"normal, flying","keen-eye, skill-link, pickup"
+toucannon,https://pokeapi.co/api/v2/pokemon/733/,"normal, flying","keen-eye, skill-link, sheer-force"
+yungoos,https://pokeapi.co/api/v2/pokemon/734/,normal,"stakeout, strong-jaw, adaptability"
+gumshoos,https://pokeapi.co/api/v2/pokemon/735/,normal,"stakeout, strong-jaw, adaptability"
+grubbin,https://pokeapi.co/api/v2/pokemon/736/,bug,swarm
+charjabug,https://pokeapi.co/api/v2/pokemon/737/,"bug, electric",battery
+vikavolt,https://pokeapi.co/api/v2/pokemon/738/,"bug, electric",levitate
+crabrawler,https://pokeapi.co/api/v2/pokemon/739/,fighting,"hyper-cutter, iron-fist, anger-point"
+crabominable,https://pokeapi.co/api/v2/pokemon/740/,"fighting, ice","hyper-cutter, iron-fist, anger-point"
+oricorio-baile,https://pokeapi.co/api/v2/pokemon/741/,"fire, flying",dancer
+cutiefly,https://pokeapi.co/api/v2/pokemon/742/,"bug, fairy","honey-gather, shield-dust, sweet-veil"
+ribombee,https://pokeapi.co/api/v2/pokemon/743/,"bug, fairy","honey-gather, shield-dust, sweet-veil"
+rockruff,https://pokeapi.co/api/v2/pokemon/744/,rock,"keen-eye, vital-spirit, steadfast"
+lycanroc-midday,https://pokeapi.co/api/v2/pokemon/745/,rock,"keen-eye, sand-rush, steadfast"
+wishiwashi-solo,https://pokeapi.co/api/v2/pokemon/746/,water,schooling
+mareanie,https://pokeapi.co/api/v2/pokemon/747/,"poison, water","merciless, limber, regenerator"
+toxapex,https://pokeapi.co/api/v2/pokemon/748/,"poison, water","merciless, limber, regenerator"
+mudbray,https://pokeapi.co/api/v2/pokemon/749/,ground,"own-tempo, stamina, inner-focus"
+mudsdale,https://pokeapi.co/api/v2/pokemon/750/,ground,"own-tempo, stamina, inner-focus"
+dewpider,https://pokeapi.co/api/v2/pokemon/751/,"water, bug","water-bubble, water-absorb"
+araquanid,https://pokeapi.co/api/v2/pokemon/752/,"water, bug","water-bubble, water-absorb"
+fomantis,https://pokeapi.co/api/v2/pokemon/753/,grass,"leaf-guard, contrary"
+lurantis,https://pokeapi.co/api/v2/pokemon/754/,grass,"leaf-guard, contrary"
+morelull,https://pokeapi.co/api/v2/pokemon/755/,"grass, fairy","illuminate, effect-spore, rain-dish"
+shiinotic,https://pokeapi.co/api/v2/pokemon/756/,"grass, fairy","illuminate, effect-spore, rain-dish"
+salandit,https://pokeapi.co/api/v2/pokemon/757/,"poison, fire","corrosion, oblivious"
+salazzle,https://pokeapi.co/api/v2/pokemon/758/,"poison, fire","corrosion, oblivious"
+stufful,https://pokeapi.co/api/v2/pokemon/759/,"normal, fighting","fluffy, klutz, cute-charm"
+bewear,https://pokeapi.co/api/v2/pokemon/760/,"normal, fighting","fluffy, klutz, unnerve"
+bounsweet,https://pokeapi.co/api/v2/pokemon/761/,grass,"leaf-guard, oblivious, sweet-veil"
+steenee,https://pokeapi.co/api/v2/pokemon/762/,grass,"leaf-guard, oblivious, sweet-veil"
+tsareena,https://pokeapi.co/api/v2/pokemon/763/,grass,"leaf-guard, queenly-majesty, sweet-veil"
+comfey,https://pokeapi.co/api/v2/pokemon/764/,fairy,"flower-veil, triage, natural-cure"
+oranguru,https://pokeapi.co/api/v2/pokemon/765/,"normal, psychic","inner-focus, telepathy, symbiosis"
+passimian,https://pokeapi.co/api/v2/pokemon/766/,fighting,"receiver, defiant"
+wimpod,https://pokeapi.co/api/v2/pokemon/767/,"bug, water",wimp-out
+golisopod,https://pokeapi.co/api/v2/pokemon/768/,"bug, water",emergency-exit
+sandygast,https://pokeapi.co/api/v2/pokemon/769/,"ghost, ground","water-compaction, sand-veil"
+palossand,https://pokeapi.co/api/v2/pokemon/770/,"ghost, ground","water-compaction, sand-veil"
+pyukumuku,https://pokeapi.co/api/v2/pokemon/771/,water,"innards-out, unaware"
+type-null,https://pokeapi.co/api/v2/pokemon/772/,normal,battle-armor
+silvally,https://pokeapi.co/api/v2/pokemon/773/,normal,rks-system
+minior-red-meteor,https://pokeapi.co/api/v2/pokemon/774/,"rock, flying",shields-down
+komala,https://pokeapi.co/api/v2/pokemon/775/,normal,comatose
+turtonator,https://pokeapi.co/api/v2/pokemon/776/,"fire, dragon",shell-armor
+togedemaru,https://pokeapi.co/api/v2/pokemon/777/,"electric, steel","iron-barbs, lightning-rod, sturdy"
+mimikyu-disguised,https://pokeapi.co/api/v2/pokemon/778/,"ghost, fairy",disguise
+bruxish,https://pokeapi.co/api/v2/pokemon/779/,"water, psychic","dazzling, strong-jaw, wonder-skin"
+drampa,https://pokeapi.co/api/v2/pokemon/780/,"normal, dragon","berserk, sap-sipper, cloud-nine"
+dhelmise,https://pokeapi.co/api/v2/pokemon/781/,"ghost, grass",steelworker
+jangmo-o,https://pokeapi.co/api/v2/pokemon/782/,dragon,"bulletproof, soundproof, overcoat"
+hakamo-o,https://pokeapi.co/api/v2/pokemon/783/,"dragon, fighting","bulletproof, soundproof, overcoat"
+kommo-o,https://pokeapi.co/api/v2/pokemon/784/,"dragon, fighting","bulletproof, soundproof, overcoat"
+tapu-koko,https://pokeapi.co/api/v2/pokemon/785/,"electric, fairy","electric-surge, telepathy"
+tapu-lele,https://pokeapi.co/api/v2/pokemon/786/,"psychic, fairy","psychic-surge, telepathy"
+tapu-bulu,https://pokeapi.co/api/v2/pokemon/787/,"grass, fairy","grassy-surge, telepathy"
+tapu-fini,https://pokeapi.co/api/v2/pokemon/788/,"water, fairy","misty-surge, telepathy"
+cosmog,https://pokeapi.co/api/v2/pokemon/789/,psychic,unaware
+cosmoem,https://pokeapi.co/api/v2/pokemon/790/,psychic,sturdy
+solgaleo,https://pokeapi.co/api/v2/pokemon/791/,"psychic, steel",full-metal-body
+lunala,https://pokeapi.co/api/v2/pokemon/792/,"psychic, ghost",shadow-shield
+nihilego,https://pokeapi.co/api/v2/pokemon/793/,"rock, poison",beast-boost
+buzzwole,https://pokeapi.co/api/v2/pokemon/794/,"bug, fighting",beast-boost
+pheromosa,https://pokeapi.co/api/v2/pokemon/795/,"bug, fighting",beast-boost
+xurkitree,https://pokeapi.co/api/v2/pokemon/796/,electric,beast-boost
+celesteela,https://pokeapi.co/api/v2/pokemon/797/,"steel, flying",beast-boost
+kartana,https://pokeapi.co/api/v2/pokemon/798/,"grass, steel",beast-boost
+guzzlord,https://pokeapi.co/api/v2/pokemon/799/,"dark, dragon",beast-boost
+necrozma,https://pokeapi.co/api/v2/pokemon/800/,psychic,prism-armor
+magearna,https://pokeapi.co/api/v2/pokemon/801/,"steel, fairy",soul-heart
+marshadow,https://pokeapi.co/api/v2/pokemon/802/,"fighting, ghost",technician
+poipole,https://pokeapi.co/api/v2/pokemon/803/,poison,beast-boost
+naganadel,https://pokeapi.co/api/v2/pokemon/804/,"poison, dragon",beast-boost
+stakataka,https://pokeapi.co/api/v2/pokemon/805/,"rock, steel",beast-boost
+blacephalon,https://pokeapi.co/api/v2/pokemon/806/,"fire, ghost",beast-boost
+zeraora,https://pokeapi.co/api/v2/pokemon/807/,electric,volt-absorb
+meltan,https://pokeapi.co/api/v2/pokemon/808/,steel,magnet-pull
+melmetal,https://pokeapi.co/api/v2/pokemon/809/,steel,iron-fist
+grookey,https://pokeapi.co/api/v2/pokemon/810/,grass,"overgrow, grassy-surge"
+thwackey,https://pokeapi.co/api/v2/pokemon/811/,grass,"overgrow, grassy-surge"
+rillaboom,https://pokeapi.co/api/v2/pokemon/812/,grass,"overgrow, grassy-surge"
+scorbunny,https://pokeapi.co/api/v2/pokemon/813/,fire,"blaze, libero"
+raboot,https://pokeapi.co/api/v2/pokemon/814/,fire,"blaze, libero"
+cinderace,https://pokeapi.co/api/v2/pokemon/815/,fire,"blaze, libero"
+sobble,https://pokeapi.co/api/v2/pokemon/816/,water,"torrent, sniper"
+drizzile,https://pokeapi.co/api/v2/pokemon/817/,water,"torrent, sniper"
+inteleon,https://pokeapi.co/api/v2/pokemon/818/,water,"torrent, sniper"
+skwovet,https://pokeapi.co/api/v2/pokemon/819/,normal,"cheek-pouch, gluttony"
+greedent,https://pokeapi.co/api/v2/pokemon/820/,normal,"cheek-pouch, gluttony"
+rookidee,https://pokeapi.co/api/v2/pokemon/821/,flying,"keen-eye, unnerve, big-pecks"
+corvisquire,https://pokeapi.co/api/v2/pokemon/822/,flying,"keen-eye, unnerve, big-pecks"
+corviknight,https://pokeapi.co/api/v2/pokemon/823/,"flying, steel","pressure, unnerve, mirror-armor"
+blipbug,https://pokeapi.co/api/v2/pokemon/824/,bug,"swarm, compound-eyes, telepathy"
+dottler,https://pokeapi.co/api/v2/pokemon/825/,"bug, psychic","swarm, compound-eyes, telepathy"
+orbeetle,https://pokeapi.co/api/v2/pokemon/826/,"bug, psychic","swarm, frisk, telepathy"
+nickit,https://pokeapi.co/api/v2/pokemon/827/,dark,"run-away, unburden, stakeout"
+thievul,https://pokeapi.co/api/v2/pokemon/828/,dark,"run-away, unburden, stakeout"
+gossifleur,https://pokeapi.co/api/v2/pokemon/829/,grass,"cotton-down, regenerator, effect-spore"
+eldegoss,https://pokeapi.co/api/v2/pokemon/830/,grass,"cotton-down, regenerator, effect-spore"
+wooloo,https://pokeapi.co/api/v2/pokemon/831/,normal,"fluffy, run-away, bulletproof"
+dubwool,https://pokeapi.co/api/v2/pokemon/832/,normal,"fluffy, steadfast, bulletproof"
+chewtle,https://pokeapi.co/api/v2/pokemon/833/,water,"strong-jaw, shell-armor, swift-swim"
+drednaw,https://pokeapi.co/api/v2/pokemon/834/,"water, rock","strong-jaw, shell-armor, swift-swim"
+yamper,https://pokeapi.co/api/v2/pokemon/835/,electric,"ball-fetch, rattled"
+boltund,https://pokeapi.co/api/v2/pokemon/836/,electric,"strong-jaw, competitive"
+rolycoly,https://pokeapi.co/api/v2/pokemon/837/,rock,"steam-engine, heatproof, flash-fire"
+carkol,https://pokeapi.co/api/v2/pokemon/838/,"rock, fire","steam-engine, flame-body, flash-fire"
+coalossal,https://pokeapi.co/api/v2/pokemon/839/,"rock, fire","steam-engine, flame-body, flash-fire"
+applin,https://pokeapi.co/api/v2/pokemon/840/,"grass, dragon","ripen, gluttony, bulletproof"
+flapple,https://pokeapi.co/api/v2/pokemon/841/,"grass, dragon","ripen, gluttony, hustle"
+appletun,https://pokeapi.co/api/v2/pokemon/842/,"grass, dragon","ripen, gluttony, thick-fat"
+silicobra,https://pokeapi.co/api/v2/pokemon/843/,ground,"sand-spit, shed-skin, sand-veil"
+sandaconda,https://pokeapi.co/api/v2/pokemon/844/,ground,"sand-spit, shed-skin, sand-veil"
+cramorant,https://pokeapi.co/api/v2/pokemon/845/,"flying, water",gulp-missile
+arrokuda,https://pokeapi.co/api/v2/pokemon/846/,water,"swift-swim, propeller-tail"
+barraskewda,https://pokeapi.co/api/v2/pokemon/847/,water,"swift-swim, propeller-tail"
+toxel,https://pokeapi.co/api/v2/pokemon/848/,"electric, poison","rattled, static, klutz"
+toxtricity-amped,https://pokeapi.co/api/v2/pokemon/849/,"electric, poison","punk-rock, plus, technician"
+sizzlipede,https://pokeapi.co/api/v2/pokemon/850/,"fire, bug","flash-fire, white-smoke, flame-body"
+centiskorch,https://pokeapi.co/api/v2/pokemon/851/,"fire, bug","flash-fire, white-smoke, flame-body"
+clobbopus,https://pokeapi.co/api/v2/pokemon/852/,fighting,"limber, technician"
+grapploct,https://pokeapi.co/api/v2/pokemon/853/,fighting,"limber, technician"
+sinistea,https://pokeapi.co/api/v2/pokemon/854/,ghost,"weak-armor, cursed-body"
+polteageist,https://pokeapi.co/api/v2/pokemon/855/,ghost,"weak-armor, cursed-body"
+hatenna,https://pokeapi.co/api/v2/pokemon/856/,psychic,"healer, anticipation, magic-bounce"
+hattrem,https://pokeapi.co/api/v2/pokemon/857/,psychic,"healer, anticipation, magic-bounce"
+hatterene,https://pokeapi.co/api/v2/pokemon/858/,"psychic, fairy","healer, anticipation, magic-bounce"
+impidimp,https://pokeapi.co/api/v2/pokemon/859/,"dark, fairy","prankster, frisk, pickpocket"
+morgrem,https://pokeapi.co/api/v2/pokemon/860/,"dark, fairy","prankster, frisk, pickpocket"
+grimmsnarl,https://pokeapi.co/api/v2/pokemon/861/,"dark, fairy","prankster, frisk, pickpocket"
+obstagoon,https://pokeapi.co/api/v2/pokemon/862/,"dark, normal","reckless, guts, defiant"
+perrserker,https://pokeapi.co/api/v2/pokemon/863/,steel,"battle-armor, tough-claws, steely-spirit"
+cursola,https://pokeapi.co/api/v2/pokemon/864/,ghost,"weak-armor, perish-body"
+sirfetchd,https://pokeapi.co/api/v2/pokemon/865/,fighting,"steadfast, scrappy"
+mr-rime,https://pokeapi.co/api/v2/pokemon/866/,"ice, psychic","tangled-feet, screen-cleaner, ice-body"
+runerigus,https://pokeapi.co/api/v2/pokemon/867/,"ground, ghost",wandering-spirit
+milcery,https://pokeapi.co/api/v2/pokemon/868/,fairy,"sweet-veil, aroma-veil"
+alcremie,https://pokeapi.co/api/v2/pokemon/869/,fairy,"sweet-veil, aroma-veil"
+falinks,https://pokeapi.co/api/v2/pokemon/870/,fighting,"battle-armor, defiant"
+pincurchin,https://pokeapi.co/api/v2/pokemon/871/,electric,"lightning-rod, electric-surge"
+snom,https://pokeapi.co/api/v2/pokemon/872/,"ice, bug","shield-dust, ice-scales"
+frosmoth,https://pokeapi.co/api/v2/pokemon/873/,"ice, bug","shield-dust, ice-scales"
+stonjourner,https://pokeapi.co/api/v2/pokemon/874/,rock,power-spot
+eiscue-ice,https://pokeapi.co/api/v2/pokemon/875/,ice,ice-face
+indeedee-male,https://pokeapi.co/api/v2/pokemon/876/,"psychic, normal","inner-focus, synchronize, psychic-surge"
+morpeko-full-belly,https://pokeapi.co/api/v2/pokemon/877/,"electric, dark",hunger-switch
+cufant,https://pokeapi.co/api/v2/pokemon/878/,steel,"sheer-force, heavy-metal"
+copperajah,https://pokeapi.co/api/v2/pokemon/879/,steel,"sheer-force, heavy-metal"
+dracozolt,https://pokeapi.co/api/v2/pokemon/880/,"electric, dragon","volt-absorb, hustle, sand-rush"
+arctozolt,https://pokeapi.co/api/v2/pokemon/881/,"electric, ice","volt-absorb, static, slush-rush"
+dracovish,https://pokeapi.co/api/v2/pokemon/882/,"water, dragon","water-absorb, strong-jaw, sand-rush"
+arctovish,https://pokeapi.co/api/v2/pokemon/883/,"water, ice","water-absorb, ice-body, slush-rush"
+duraludon,https://pokeapi.co/api/v2/pokemon/884/,"steel, dragon","light-metal, heavy-metal, stalwart"
+dreepy,https://pokeapi.co/api/v2/pokemon/885/,"dragon, ghost","clear-body, infiltrator, cursed-body"
+drakloak,https://pokeapi.co/api/v2/pokemon/886/,"dragon, ghost","clear-body, infiltrator, cursed-body"
+dragapult,https://pokeapi.co/api/v2/pokemon/887/,"dragon, ghost","clear-body, infiltrator, cursed-body"
+zacian,https://pokeapi.co/api/v2/pokemon/888/,fairy,intrepid-sword
+zamazenta,https://pokeapi.co/api/v2/pokemon/889/,fighting,dauntless-shield
+eternatus,https://pokeapi.co/api/v2/pokemon/890/,"poison, dragon",pressure
+kubfu,https://pokeapi.co/api/v2/pokemon/891/,fighting,inner-focus
+urshifu-single-strike,https://pokeapi.co/api/v2/pokemon/892/,"fighting, dark",unseen-fist
+zarude,https://pokeapi.co/api/v2/pokemon/893/,"dark, grass",leaf-guard
+regieleki,https://pokeapi.co/api/v2/pokemon/894/,electric,transistor
+regidrago,https://pokeapi.co/api/v2/pokemon/895/,dragon,dragons-maw
+glastrier,https://pokeapi.co/api/v2/pokemon/896/,ice,chilling-neigh
+spectrier,https://pokeapi.co/api/v2/pokemon/897/,ghost,grim-neigh
+calyrex,https://pokeapi.co/api/v2/pokemon/898/,"psychic, grass",unnerve
+wyrdeer,https://pokeapi.co/api/v2/pokemon/899/,"normal, psychic","intimidate, frisk, sap-sipper"
+kleavor,https://pokeapi.co/api/v2/pokemon/900/,"bug, rock","swarm, sheer-force, sharpness"
+ursaluna,https://pokeapi.co/api/v2/pokemon/901/,"ground, normal","guts, bulletproof, unnerve"
+basculegion-male,https://pokeapi.co/api/v2/pokemon/902/,"water, ghost","swift-swim, adaptability, mold-breaker"
+sneasler,https://pokeapi.co/api/v2/pokemon/903/,"fighting, poison","pressure, unburden, poison-touch"
+overqwil,https://pokeapi.co/api/v2/pokemon/904/,"dark, poison","poison-point, swift-swim, intimidate"
+enamorus-incarnate,https://pokeapi.co/api/v2/pokemon/905/,"fairy, flying","cute-charm, contrary"
+sprigatito,https://pokeapi.co/api/v2/pokemon/906/,grass,"overgrow, protean"
+floragato,https://pokeapi.co/api/v2/pokemon/907/,grass,"overgrow, protean"
+meowscarada,https://pokeapi.co/api/v2/pokemon/908/,"grass, dark","overgrow, protean"
+fuecoco,https://pokeapi.co/api/v2/pokemon/909/,fire,"blaze, unaware"
+crocalor,https://pokeapi.co/api/v2/pokemon/910/,fire,"blaze, unaware"
+skeledirge,https://pokeapi.co/api/v2/pokemon/911/,"fire, ghost","blaze, unaware"
+quaxly,https://pokeapi.co/api/v2/pokemon/912/,water,"torrent, moxie"
+quaxwell,https://pokeapi.co/api/v2/pokemon/913/,water,"torrent, moxie"
+quaquaval,https://pokeapi.co/api/v2/pokemon/914/,"water, fighting","torrent, moxie"
+lechonk,https://pokeapi.co/api/v2/pokemon/915/,normal,"aroma-veil, gluttony, thick-fat"
+oinkologne-male,https://pokeapi.co/api/v2/pokemon/916/,normal,"lingering-aroma, gluttony, thick-fat"
+tarountula,https://pokeapi.co/api/v2/pokemon/917/,bug,"insomnia, stakeout"
+spidops,https://pokeapi.co/api/v2/pokemon/918/,bug,"insomnia, stakeout"
+nymble,https://pokeapi.co/api/v2/pokemon/919/,bug,"swarm, tinted-lens"
+lokix,https://pokeapi.co/api/v2/pokemon/920/,"bug, dark","swarm, tinted-lens"
+pawmi,https://pokeapi.co/api/v2/pokemon/921/,electric,"static, natural-cure, iron-fist"
+pawmo,https://pokeapi.co/api/v2/pokemon/922/,"electric, fighting","volt-absorb, natural-cure, iron-fist"
+pawmot,https://pokeapi.co/api/v2/pokemon/923/,"electric, fighting","volt-absorb, natural-cure, iron-fist"
+tandemaus,https://pokeapi.co/api/v2/pokemon/924/,normal,"run-away, pickup, own-tempo"
+maushold-family-of-four,https://pokeapi.co/api/v2/pokemon/925/,normal,"friend-guard, cheek-pouch, technician"
+fidough,https://pokeapi.co/api/v2/pokemon/926/,fairy,"own-tempo, klutz"
+dachsbun,https://pokeapi.co/api/v2/pokemon/927/,fairy,"well-baked-body, aroma-veil"
+smoliv,https://pokeapi.co/api/v2/pokemon/928/,"grass, normal","early-bird, harvest"
+dolliv,https://pokeapi.co/api/v2/pokemon/929/,"grass, normal","early-bird, harvest"
+arboliva,https://pokeapi.co/api/v2/pokemon/930/,"grass, normal","seed-sower, harvest"
+squawkabilly-green-plumage,https://pokeapi.co/api/v2/pokemon/931/,"normal, flying","intimidate, hustle, guts"
+nacli,https://pokeapi.co/api/v2/pokemon/932/,rock,"purifying-salt, sturdy, clear-body"
+naclstack,https://pokeapi.co/api/v2/pokemon/933/,rock,"purifying-salt, sturdy, clear-body"
+garganacl,https://pokeapi.co/api/v2/pokemon/934/,rock,"purifying-salt, sturdy, clear-body"
+charcadet,https://pokeapi.co/api/v2/pokemon/935/,fire,"flash-fire, flame-body"
+armarouge,https://pokeapi.co/api/v2/pokemon/936/,"fire, psychic","flash-fire, weak-armor"
+ceruledge,https://pokeapi.co/api/v2/pokemon/937/,"fire, ghost","flash-fire, weak-armor"
+tadbulb,https://pokeapi.co/api/v2/pokemon/938/,electric,"own-tempo, static, damp"
+bellibolt,https://pokeapi.co/api/v2/pokemon/939/,electric,"electromorphosis, static, damp"
+wattrel,https://pokeapi.co/api/v2/pokemon/940/,"electric, flying","wind-power, volt-absorb, competitive"
+kilowattrel,https://pokeapi.co/api/v2/pokemon/941/,"electric, flying","wind-power, volt-absorb, competitive"
+maschiff,https://pokeapi.co/api/v2/pokemon/942/,dark,"intimidate, run-away, stakeout"
+mabosstiff,https://pokeapi.co/api/v2/pokemon/943/,dark,"intimidate, guard-dog, stakeout"
+shroodle,https://pokeapi.co/api/v2/pokemon/944/,"poison, normal","unburden, pickpocket, prankster"
+grafaiai,https://pokeapi.co/api/v2/pokemon/945/,"poison, normal","unburden, poison-touch, prankster"
+bramblin,https://pokeapi.co/api/v2/pokemon/946/,"grass, ghost","wind-rider, infiltrator"
+brambleghast,https://pokeapi.co/api/v2/pokemon/947/,"grass, ghost","wind-rider, infiltrator"
+toedscool,https://pokeapi.co/api/v2/pokemon/948/,"ground, grass","mycelium-might, mycelium-might"
+toedscruel,https://pokeapi.co/api/v2/pokemon/949/,"ground, grass","mycelium-might, mycelium-might"
+klawf,https://pokeapi.co/api/v2/pokemon/950/,rock,"anger-shell, shell-armor, regenerator"
+capsakid,https://pokeapi.co/api/v2/pokemon/951/,grass,"chlorophyll, insomnia, klutz"
+scovillain,https://pokeapi.co/api/v2/pokemon/952/,"grass, fire","chlorophyll, insomnia, moody"
+rellor,https://pokeapi.co/api/v2/pokemon/953/,bug,"compound-eyes, shed-skin"
+rabsca,https://pokeapi.co/api/v2/pokemon/954/,"bug, psychic","synchronize, telepathy"
+flittle,https://pokeapi.co/api/v2/pokemon/955/,psychic,"anticipation, frisk, speed-boost"
+espathra,https://pokeapi.co/api/v2/pokemon/956/,psychic,"opportunist, frisk, speed-boost"
+tinkatink,https://pokeapi.co/api/v2/pokemon/957/,"fairy, steel","mold-breaker, own-tempo, pickpocket"
+tinkatuff,https://pokeapi.co/api/v2/pokemon/958/,"fairy, steel","mold-breaker, own-tempo, pickpocket"
+tinkaton,https://pokeapi.co/api/v2/pokemon/959/,"fairy, steel","mold-breaker, own-tempo, pickpocket"
+wiglett,https://pokeapi.co/api/v2/pokemon/960/,water,"gooey, rattled, sand-veil"
+wugtrio,https://pokeapi.co/api/v2/pokemon/961/,water,"gooey, rattled, sand-veil"
+bombirdier,https://pokeapi.co/api/v2/pokemon/962/,"flying, dark","big-pecks, keen-eye, rocky-payload"
+finizen,https://pokeapi.co/api/v2/pokemon/963/,water,"water-veil, water-veil"
+palafin-zero,https://pokeapi.co/api/v2/pokemon/964/,water,"zero-to-hero, zero-to-hero"
+varoom,https://pokeapi.co/api/v2/pokemon/965/,"steel, poison","overcoat, slow-start"
+revavroom,https://pokeapi.co/api/v2/pokemon/966/,"steel, poison","overcoat, filter"
+cyclizar,https://pokeapi.co/api/v2/pokemon/967/,"dragon, normal","shed-skin, regenerator"
+orthworm,https://pokeapi.co/api/v2/pokemon/968/,steel,"earth-eater, sand-veil"
+glimmet,https://pokeapi.co/api/v2/pokemon/969/,"rock, poison","toxic-debris, corrosion"
+glimmora,https://pokeapi.co/api/v2/pokemon/970/,"rock, poison","toxic-debris, corrosion"
+greavard,https://pokeapi.co/api/v2/pokemon/971/,ghost,"pickup, fluffy"
+houndstone,https://pokeapi.co/api/v2/pokemon/972/,ghost,"sand-rush, fluffy"
+flamigo,https://pokeapi.co/api/v2/pokemon/973/,"flying, fighting","scrappy, tangled-feet, costar"
+cetoddle,https://pokeapi.co/api/v2/pokemon/974/,ice,"thick-fat, snow-cloak, sheer-force"
+cetitan,https://pokeapi.co/api/v2/pokemon/975/,ice,"thick-fat, slush-rush, sheer-force"
+veluza,https://pokeapi.co/api/v2/pokemon/976/,"water, psychic","mold-breaker, sharpness"
+dondozo,https://pokeapi.co/api/v2/pokemon/977/,water,"unaware, oblivious, water-veil"
+tatsugiri-curly,https://pokeapi.co/api/v2/pokemon/978/,"dragon, water","commander, storm-drain"
+annihilape,https://pokeapi.co/api/v2/pokemon/979/,"fighting, ghost","vital-spirit, inner-focus, defiant"
+clodsire,https://pokeapi.co/api/v2/pokemon/980/,"poison, ground","poison-point, water-absorb, unaware"
+farigiraf,https://pokeapi.co/api/v2/pokemon/981/,"normal, psychic","cud-chew, armor-tail, sap-sipper"
+dudunsparce-two-segment,https://pokeapi.co/api/v2/pokemon/982/,normal,"serene-grace, run-away, rattled"
+kingambit,https://pokeapi.co/api/v2/pokemon/983/,"dark, steel","defiant, supreme-overlord, pressure"
+great-tusk,https://pokeapi.co/api/v2/pokemon/984/,"ground, fighting","protosynthesis, protosynthesis"
+scream-tail,https://pokeapi.co/api/v2/pokemon/985/,"fairy, psychic","protosynthesis, protosynthesis"
+brute-bonnet,https://pokeapi.co/api/v2/pokemon/986/,"grass, dark","protosynthesis, protosynthesis"
+flutter-mane,https://pokeapi.co/api/v2/pokemon/987/,"ghost, fairy","protosynthesis, protosynthesis"
+slither-wing,https://pokeapi.co/api/v2/pokemon/988/,"bug, fighting","protosynthesis, protosynthesis"
+sandy-shocks,https://pokeapi.co/api/v2/pokemon/989/,"electric, ground","protosynthesis, protosynthesis"
+iron-treads,https://pokeapi.co/api/v2/pokemon/990/,"ground, steel","quark-drive, quark-drive"
+iron-bundle,https://pokeapi.co/api/v2/pokemon/991/,"ice, water","quark-drive, quark-drive"
+iron-hands,https://pokeapi.co/api/v2/pokemon/992/,"fighting, electric","quark-drive, quark-drive"
+iron-jugulis,https://pokeapi.co/api/v2/pokemon/993/,"dark, flying","quark-drive, quark-drive"
+iron-moth,https://pokeapi.co/api/v2/pokemon/994/,"fire, poison","quark-drive, quark-drive"
+iron-thorns,https://pokeapi.co/api/v2/pokemon/995/,"rock, electric","quark-drive, quark-drive"
+frigibax,https://pokeapi.co/api/v2/pokemon/996/,"dragon, ice","thermal-exchange, ice-body"
+arctibax,https://pokeapi.co/api/v2/pokemon/997/,"dragon, ice","thermal-exchange, ice-body"
+baxcalibur,https://pokeapi.co/api/v2/pokemon/998/,"dragon, ice","thermal-exchange, ice-body"
+gimmighoul,https://pokeapi.co/api/v2/pokemon/999/,ghost,"rattled, rattled"
+gholdengo,https://pokeapi.co/api/v2/pokemon/1000/,"steel, ghost","good-as-gold, good-as-gold"
+wo-chien,https://pokeapi.co/api/v2/pokemon/1001/,"dark, grass","tablets-of-ruin, tablets-of-ruin"
+chien-pao,https://pokeapi.co/api/v2/pokemon/1002/,"dark, ice","sword-of-ruin, sword-of-ruin"
+ting-lu,https://pokeapi.co/api/v2/pokemon/1003/,"dark, ground","vessel-of-ruin, vessel-of-ruin"
+chi-yu,https://pokeapi.co/api/v2/pokemon/1004/,"dark, fire","beads-of-ruin, beads-of-ruin"
+roaring-moon,https://pokeapi.co/api/v2/pokemon/1005/,"dragon, dark","protosynthesis, protosynthesis"
+iron-valiant,https://pokeapi.co/api/v2/pokemon/1006/,"fairy, fighting","quark-drive, quark-drive"
+koraidon,https://pokeapi.co/api/v2/pokemon/1007/,"fighting, dragon","orichalcum-pulse, orichalcum-pulse"
+miraidon,https://pokeapi.co/api/v2/pokemon/1008/,"electric, dragon","hadron-engine, hadron-engine"
+walking-wake,https://pokeapi.co/api/v2/pokemon/1009/,"water, dragon","protosynthesis, protosynthesis"
+iron-leaves,https://pokeapi.co/api/v2/pokemon/1010/,"grass, psychic","quark-drive, quark-drive"
+dipplin,https://pokeapi.co/api/v2/pokemon/1011/,"grass, dragon","supersweet-syrup, gluttony, sticky-hold"
+poltchageist,https://pokeapi.co/api/v2/pokemon/1012/,"grass, ghost","hospitality, heatproof"
+sinistcha,https://pokeapi.co/api/v2/pokemon/1013/,"grass, ghost","hospitality, heatproof"
+okidogi,https://pokeapi.co/api/v2/pokemon/1014/,"poison, fighting","toxic-chain, guard-dog"
+munkidori,https://pokeapi.co/api/v2/pokemon/1015/,"poison, psychic","toxic-chain, frisk"
+fezandipiti,https://pokeapi.co/api/v2/pokemon/1016/,"poison, fairy","toxic-chain, technician"
+ogerpon,https://pokeapi.co/api/v2/pokemon/1017/,grass,defiant
+archaludon,https://pokeapi.co/api/v2/pokemon/1018/,"steel, dragon","stamina, sturdy, stalwart"
+hydrapple,https://pokeapi.co/api/v2/pokemon/1019/,"grass, dragon","supersweet-syrup, regenerator, sticky-hold"
+gouging-fire,https://pokeapi.co/api/v2/pokemon/1020/,"fire, dragon",protosynthesis
+raging-bolt,https://pokeapi.co/api/v2/pokemon/1021/,"electric, dragon",protosynthesis
+iron-boulder,https://pokeapi.co/api/v2/pokemon/1022/,"rock, psychic",quark-drive
+iron-crown,https://pokeapi.co/api/v2/pokemon/1023/,"steel, psychic",quark-drive
+terapagos,https://pokeapi.co/api/v2/pokemon/1024/,normal,tera-shift
+pecharunt,https://pokeapi.co/api/v2/pokemon/1025/,"poison, ghost",poison-puppeteer
+deoxys-attack,https://pokeapi.co/api/v2/pokemon/10001/,psychic,pressure
+deoxys-defense,https://pokeapi.co/api/v2/pokemon/10002/,psychic,pressure
+deoxys-speed,https://pokeapi.co/api/v2/pokemon/10003/,psychic,pressure
+wormadam-sandy,https://pokeapi.co/api/v2/pokemon/10004/,"bug, ground","anticipation, overcoat"
+wormadam-trash,https://pokeapi.co/api/v2/pokemon/10005/,"bug, steel","anticipation, overcoat"
+shaymin-sky,https://pokeapi.co/api/v2/pokemon/10006/,"grass, flying",serene-grace
+giratina-origin,https://pokeapi.co/api/v2/pokemon/10007/,"ghost, dragon",levitate
+rotom-heat,https://pokeapi.co/api/v2/pokemon/10008/,"electric, fire",levitate
+rotom-wash,https://pokeapi.co/api/v2/pokemon/10009/,"electric, water",levitate
+rotom-frost,https://pokeapi.co/api/v2/pokemon/10010/,"electric, ice",levitate
+rotom-fan,https://pokeapi.co/api/v2/pokemon/10011/,"electric, flying",levitate
+rotom-mow,https://pokeapi.co/api/v2/pokemon/10012/,"electric, grass",levitate
+castform-sunny,https://pokeapi.co/api/v2/pokemon/10013/,fire,forecast
+castform-rainy,https://pokeapi.co/api/v2/pokemon/10014/,water,forecast
+castform-snowy,https://pokeapi.co/api/v2/pokemon/10015/,ice,forecast
+basculin-blue-striped,https://pokeapi.co/api/v2/pokemon/10016/,water,"rock-head, adaptability, mold-breaker"
+darmanitan-zen,https://pokeapi.co/api/v2/pokemon/10017/,"fire, psychic","sheer-force, zen-mode"
+meloetta-pirouette,https://pokeapi.co/api/v2/pokemon/10018/,"normal, fighting",serene-grace
+tornadus-therian,https://pokeapi.co/api/v2/pokemon/10019/,flying,regenerator
+thundurus-therian,https://pokeapi.co/api/v2/pokemon/10020/,"electric, flying",volt-absorb
+landorus-therian,https://pokeapi.co/api/v2/pokemon/10021/,"ground, flying",intimidate
+kyurem-black,https://pokeapi.co/api/v2/pokemon/10022/,"dragon, ice",teravolt
+kyurem-white,https://pokeapi.co/api/v2/pokemon/10023/,"dragon, ice",turboblaze
+keldeo-resolute,https://pokeapi.co/api/v2/pokemon/10024/,"water, fighting",justified
+meowstic-female,https://pokeapi.co/api/v2/pokemon/10025/,psychic,"keen-eye, infiltrator, competitive"
+aegislash-blade,https://pokeapi.co/api/v2/pokemon/10026/,"steel, ghost",stance-change
+pumpkaboo-small,https://pokeapi.co/api/v2/pokemon/10027/,"ghost, grass","pickup, frisk, insomnia"
+pumpkaboo-large,https://pokeapi.co/api/v2/pokemon/10028/,"ghost, grass","pickup, frisk, insomnia"
+pumpkaboo-super,https://pokeapi.co/api/v2/pokemon/10029/,"ghost, grass","pickup, frisk, insomnia"
+gourgeist-small,https://pokeapi.co/api/v2/pokemon/10030/,"ghost, grass","pickup, frisk, insomnia"
+gourgeist-large,https://pokeapi.co/api/v2/pokemon/10031/,"ghost, grass","pickup, frisk, insomnia"
+gourgeist-super,https://pokeapi.co/api/v2/pokemon/10032/,"ghost, grass","pickup, frisk, insomnia"
+venusaur-mega,https://pokeapi.co/api/v2/pokemon/10033/,"grass, poison",thick-fat
+charizard-mega-x,https://pokeapi.co/api/v2/pokemon/10034/,"fire, dragon",tough-claws
+charizard-mega-y,https://pokeapi.co/api/v2/pokemon/10035/,"fire, flying",drought
+blastoise-mega,https://pokeapi.co/api/v2/pokemon/10036/,water,mega-launcher
+alakazam-mega,https://pokeapi.co/api/v2/pokemon/10037/,psychic,trace
+gengar-mega,https://pokeapi.co/api/v2/pokemon/10038/,"ghost, poison",shadow-tag
+kangaskhan-mega,https://pokeapi.co/api/v2/pokemon/10039/,normal,parental-bond
+pinsir-mega,https://pokeapi.co/api/v2/pokemon/10040/,"bug, flying",aerilate
+gyarados-mega,https://pokeapi.co/api/v2/pokemon/10041/,"water, dark",mold-breaker
+aerodactyl-mega,https://pokeapi.co/api/v2/pokemon/10042/,"rock, flying",tough-claws
+mewtwo-mega-x,https://pokeapi.co/api/v2/pokemon/10043/,"psychic, fighting",steadfast
+mewtwo-mega-y,https://pokeapi.co/api/v2/pokemon/10044/,psychic,insomnia
+ampharos-mega,https://pokeapi.co/api/v2/pokemon/10045/,"electric, dragon",mold-breaker
+scizor-mega,https://pokeapi.co/api/v2/pokemon/10046/,"bug, steel",technician
+heracross-mega,https://pokeapi.co/api/v2/pokemon/10047/,"bug, fighting",skill-link
+houndoom-mega,https://pokeapi.co/api/v2/pokemon/10048/,"dark, fire",solar-power
+tyranitar-mega,https://pokeapi.co/api/v2/pokemon/10049/,"rock, dark",sand-stream
+blaziken-mega,https://pokeapi.co/api/v2/pokemon/10050/,"fire, fighting",speed-boost
+gardevoir-mega,https://pokeapi.co/api/v2/pokemon/10051/,"psychic, fairy",pixilate
+mawile-mega,https://pokeapi.co/api/v2/pokemon/10052/,"steel, fairy",huge-power
+aggron-mega,https://pokeapi.co/api/v2/pokemon/10053/,steel,filter
+medicham-mega,https://pokeapi.co/api/v2/pokemon/10054/,"fighting, psychic",pure-power
+manectric-mega,https://pokeapi.co/api/v2/pokemon/10055/,electric,intimidate
+banette-mega,https://pokeapi.co/api/v2/pokemon/10056/,ghost,prankster
+absol-mega,https://pokeapi.co/api/v2/pokemon/10057/,dark,magic-bounce
+garchomp-mega,https://pokeapi.co/api/v2/pokemon/10058/,"dragon, ground",sand-force
+lucario-mega,https://pokeapi.co/api/v2/pokemon/10059/,"fighting, steel",adaptability
+abomasnow-mega,https://pokeapi.co/api/v2/pokemon/10060/,"grass, ice",snow-warning
+floette-eternal,https://pokeapi.co/api/v2/pokemon/10061/,fairy,"flower-veil, symbiosis"
+latias-mega,https://pokeapi.co/api/v2/pokemon/10062/,"dragon, psychic",levitate
+latios-mega,https://pokeapi.co/api/v2/pokemon/10063/,"dragon, psychic",levitate
+swampert-mega,https://pokeapi.co/api/v2/pokemon/10064/,"water, ground",swift-swim
+sceptile-mega,https://pokeapi.co/api/v2/pokemon/10065/,"grass, dragon",lightning-rod
+sableye-mega,https://pokeapi.co/api/v2/pokemon/10066/,"dark, ghost",magic-bounce
+altaria-mega,https://pokeapi.co/api/v2/pokemon/10067/,"dragon, fairy",pixilate
+gallade-mega,https://pokeapi.co/api/v2/pokemon/10068/,"psychic, fighting",inner-focus
+audino-mega,https://pokeapi.co/api/v2/pokemon/10069/,"normal, fairy",healer
+sharpedo-mega,https://pokeapi.co/api/v2/pokemon/10070/,"water, dark",strong-jaw
+slowbro-mega,https://pokeapi.co/api/v2/pokemon/10071/,"water, psychic",shell-armor
+steelix-mega,https://pokeapi.co/api/v2/pokemon/10072/,"steel, ground",sand-force
+pidgeot-mega,https://pokeapi.co/api/v2/pokemon/10073/,"normal, flying",no-guard
+glalie-mega,https://pokeapi.co/api/v2/pokemon/10074/,ice,refrigerate
+diancie-mega,https://pokeapi.co/api/v2/pokemon/10075/,"rock, fairy",magic-bounce
+metagross-mega,https://pokeapi.co/api/v2/pokemon/10076/,"steel, psychic",tough-claws
+kyogre-primal,https://pokeapi.co/api/v2/pokemon/10077/,water,primordial-sea
+groudon-primal,https://pokeapi.co/api/v2/pokemon/10078/,"ground, fire",desolate-land
+rayquaza-mega,https://pokeapi.co/api/v2/pokemon/10079/,"dragon, flying",delta-stream
+pikachu-rock-star,https://pokeapi.co/api/v2/pokemon/10080/,electric,"static, lightning-rod"
+pikachu-belle,https://pokeapi.co/api/v2/pokemon/10081/,electric,"static, lightning-rod"
+pikachu-pop-star,https://pokeapi.co/api/v2/pokemon/10082/,electric,"static, lightning-rod"
+pikachu-phd,https://pokeapi.co/api/v2/pokemon/10083/,electric,"static, lightning-rod"
+pikachu-libre,https://pokeapi.co/api/v2/pokemon/10084/,electric,"static, lightning-rod"
+pikachu-cosplay,https://pokeapi.co/api/v2/pokemon/10085/,electric,"static, lightning-rod"
+hoopa-unbound,https://pokeapi.co/api/v2/pokemon/10086/,"psychic, dark",magician
+camerupt-mega,https://pokeapi.co/api/v2/pokemon/10087/,"fire, ground",sheer-force
+lopunny-mega,https://pokeapi.co/api/v2/pokemon/10088/,"normal, fighting",scrappy
+salamence-mega,https://pokeapi.co/api/v2/pokemon/10089/,"dragon, flying",aerilate
+beedrill-mega,https://pokeapi.co/api/v2/pokemon/10090/,"bug, poison",adaptability
+rattata-alola,https://pokeapi.co/api/v2/pokemon/10091/,"dark, normal","gluttony, hustle, thick-fat"
+raticate-alola,https://pokeapi.co/api/v2/pokemon/10092/,"dark, normal","gluttony, hustle, thick-fat"
+raticate-totem-alola,https://pokeapi.co/api/v2/pokemon/10093/,"dark, normal","gluttony, hustle, thick-fat"
+pikachu-original-cap,https://pokeapi.co/api/v2/pokemon/10094/,electric,"static, lightning-rod"
+pikachu-hoenn-cap,https://pokeapi.co/api/v2/pokemon/10095/,electric,"static, lightning-rod"
+pikachu-sinnoh-cap,https://pokeapi.co/api/v2/pokemon/10096/,electric,"static, lightning-rod"
+pikachu-unova-cap,https://pokeapi.co/api/v2/pokemon/10097/,electric,"static, lightning-rod"
+pikachu-kalos-cap,https://pokeapi.co/api/v2/pokemon/10098/,electric,"static, lightning-rod"
+pikachu-alola-cap,https://pokeapi.co/api/v2/pokemon/10099/,electric,"static, lightning-rod"
+raichu-alola,https://pokeapi.co/api/v2/pokemon/10100/,"electric, psychic",surge-surfer
+sandshrew-alola,https://pokeapi.co/api/v2/pokemon/10101/,"ice, steel","snow-cloak, slush-rush"
+sandslash-alola,https://pokeapi.co/api/v2/pokemon/10102/,"ice, steel","snow-cloak, slush-rush"
+vulpix-alola,https://pokeapi.co/api/v2/pokemon/10103/,ice,"snow-cloak, snow-warning"
+ninetales-alola,https://pokeapi.co/api/v2/pokemon/10104/,"ice, fairy","snow-cloak, snow-warning"
+diglett-alola,https://pokeapi.co/api/v2/pokemon/10105/,"ground, steel","sand-veil, tangling-hair, sand-force"
+dugtrio-alola,https://pokeapi.co/api/v2/pokemon/10106/,"ground, steel","sand-veil, tangling-hair, sand-force"
+meowth-alola,https://pokeapi.co/api/v2/pokemon/10107/,dark,"pickup, technician, rattled"
+persian-alola,https://pokeapi.co/api/v2/pokemon/10108/,dark,"fur-coat, technician, rattled"
+geodude-alola,https://pokeapi.co/api/v2/pokemon/10109/,"rock, electric","magnet-pull, sturdy, galvanize"
+graveler-alola,https://pokeapi.co/api/v2/pokemon/10110/,"rock, electric","magnet-pull, sturdy, galvanize"
+golem-alola,https://pokeapi.co/api/v2/pokemon/10111/,"rock, electric","magnet-pull, sturdy, galvanize"
+grimer-alola,https://pokeapi.co/api/v2/pokemon/10112/,"poison, dark","poison-touch, gluttony, power-of-alchemy"
+muk-alola,https://pokeapi.co/api/v2/pokemon/10113/,"poison, dark","poison-touch, gluttony, power-of-alchemy"
+exeggutor-alola,https://pokeapi.co/api/v2/pokemon/10114/,"grass, dragon","frisk, harvest"
+marowak-alola,https://pokeapi.co/api/v2/pokemon/10115/,"fire, ghost","cursed-body, lightning-rod, rock-head"
+greninja-battle-bond,https://pokeapi.co/api/v2/pokemon/10116/,"water, dark",battle-bond
+greninja-ash,https://pokeapi.co/api/v2/pokemon/10117/,"water, dark",battle-bond
+zygarde-10-power-construct,https://pokeapi.co/api/v2/pokemon/10118/,"dragon, ground",power-construct
+zygarde-50-power-construct,https://pokeapi.co/api/v2/pokemon/10119/,"dragon, ground",power-construct
+zygarde-complete,https://pokeapi.co/api/v2/pokemon/10120/,"dragon, ground",power-construct
+gumshoos-totem,https://pokeapi.co/api/v2/pokemon/10121/,normal,"stakeout, strong-jaw, adaptability"
+vikavolt-totem,https://pokeapi.co/api/v2/pokemon/10122/,"bug, electric",levitate
+oricorio-pom-pom,https://pokeapi.co/api/v2/pokemon/10123/,"electric, flying",dancer
+oricorio-pau,https://pokeapi.co/api/v2/pokemon/10124/,"psychic, flying",dancer
+oricorio-sensu,https://pokeapi.co/api/v2/pokemon/10125/,"ghost, flying",dancer
+lycanroc-midnight,https://pokeapi.co/api/v2/pokemon/10126/,rock,"keen-eye, vital-spirit, no-guard"
+wishiwashi-school,https://pokeapi.co/api/v2/pokemon/10127/,water,schooling
+lurantis-totem,https://pokeapi.co/api/v2/pokemon/10128/,grass,"leaf-guard, contrary"
+salazzle-totem,https://pokeapi.co/api/v2/pokemon/10129/,"poison, fire","corrosion, oblivious"
+minior-orange-meteor,https://pokeapi.co/api/v2/pokemon/10130/,"rock, flying",shields-down
+minior-yellow-meteor,https://pokeapi.co/api/v2/pokemon/10131/,"rock, flying",shields-down
+minior-green-meteor,https://pokeapi.co/api/v2/pokemon/10132/,"rock, flying",shields-down
+minior-blue-meteor,https://pokeapi.co/api/v2/pokemon/10133/,"rock, flying",shields-down
+minior-indigo-meteor,https://pokeapi.co/api/v2/pokemon/10134/,"rock, flying",shields-down
+minior-violet-meteor,https://pokeapi.co/api/v2/pokemon/10135/,"rock, flying",shields-down
+minior-red,https://pokeapi.co/api/v2/pokemon/10136/,"rock, flying",shields-down
+minior-orange,https://pokeapi.co/api/v2/pokemon/10137/,"rock, flying",shields-down
+minior-yellow,https://pokeapi.co/api/v2/pokemon/10138/,"rock, flying",shields-down
+minior-green,https://pokeapi.co/api/v2/pokemon/10139/,"rock, flying",shields-down
+minior-blue,https://pokeapi.co/api/v2/pokemon/10140/,"rock, flying",shields-down
+minior-indigo,https://pokeapi.co/api/v2/pokemon/10141/,"rock, flying",shields-down
+minior-violet,https://pokeapi.co/api/v2/pokemon/10142/,"rock, flying",shields-down
+mimikyu-busted,https://pokeapi.co/api/v2/pokemon/10143/,"ghost, fairy",disguise
+mimikyu-totem-disguised,https://pokeapi.co/api/v2/pokemon/10144/,"ghost, fairy",disguise
+mimikyu-totem-busted,https://pokeapi.co/api/v2/pokemon/10145/,"ghost, fairy",disguise
+kommo-o-totem,https://pokeapi.co/api/v2/pokemon/10146/,"dragon, fighting","bulletproof, soundproof, overcoat"
+magearna-original,https://pokeapi.co/api/v2/pokemon/10147/,"steel, fairy",soul-heart
+pikachu-partner-cap,https://pokeapi.co/api/v2/pokemon/10148/,electric,"static, lightning-rod"
+marowak-totem,https://pokeapi.co/api/v2/pokemon/10149/,"fire, ghost","cursed-body, lightning-rod, rock-head"
+ribombee-totem,https://pokeapi.co/api/v2/pokemon/10150/,"bug, fairy","honey-gather, shield-dust, sweet-veil"
+rockruff-own-tempo,https://pokeapi.co/api/v2/pokemon/10151/,rock,own-tempo
+lycanroc-dusk,https://pokeapi.co/api/v2/pokemon/10152/,rock,tough-claws
+araquanid-totem,https://pokeapi.co/api/v2/pokemon/10153/,"water, bug","water-bubble, water-absorb"
+togedemaru-totem,https://pokeapi.co/api/v2/pokemon/10154/,"electric, steel","iron-barbs, lightning-rod, sturdy"
+necrozma-dusk,https://pokeapi.co/api/v2/pokemon/10155/,"psychic, steel",prism-armor
+necrozma-dawn,https://pokeapi.co/api/v2/pokemon/10156/,"psychic, ghost",prism-armor
+necrozma-ultra,https://pokeapi.co/api/v2/pokemon/10157/,"psychic, dragon",neuroforce
+pikachu-starter,https://pokeapi.co/api/v2/pokemon/10158/,electric,"static, lightning-rod"
+eevee-starter,https://pokeapi.co/api/v2/pokemon/10159/,normal,"run-away, adaptability, anticipation"
+pikachu-world-cap,https://pokeapi.co/api/v2/pokemon/10160/,electric,"static, lightning-rod"
+meowth-galar,https://pokeapi.co/api/v2/pokemon/10161/,steel,"pickup, tough-claws, unnerve"
+ponyta-galar,https://pokeapi.co/api/v2/pokemon/10162/,psychic,"run-away, pastel-veil, anticipation"
+rapidash-galar,https://pokeapi.co/api/v2/pokemon/10163/,"psychic, fairy","run-away, pastel-veil, anticipation"
+slowpoke-galar,https://pokeapi.co/api/v2/pokemon/10164/,psychic,"gluttony, own-tempo, regenerator"
+slowbro-galar,https://pokeapi.co/api/v2/pokemon/10165/,"poison, psychic","quick-draw, own-tempo, regenerator"
+farfetchd-galar,https://pokeapi.co/api/v2/pokemon/10166/,fighting,"steadfast, scrappy"
+weezing-galar,https://pokeapi.co/api/v2/pokemon/10167/,"poison, fairy","levitate, neutralizing-gas, misty-surge"
+mr-mime-galar,https://pokeapi.co/api/v2/pokemon/10168/,"ice, psychic","vital-spirit, screen-cleaner, ice-body"
+articuno-galar,https://pokeapi.co/api/v2/pokemon/10169/,"psychic, flying",competitive
+zapdos-galar,https://pokeapi.co/api/v2/pokemon/10170/,"fighting, flying",defiant
+moltres-galar,https://pokeapi.co/api/v2/pokemon/10171/,"dark, flying",berserk
+slowking-galar,https://pokeapi.co/api/v2/pokemon/10172/,"poison, psychic","curious-medicine, own-tempo, regenerator"
+corsola-galar,https://pokeapi.co/api/v2/pokemon/10173/,ghost,"weak-armor, cursed-body"
+zigzagoon-galar,https://pokeapi.co/api/v2/pokemon/10174/,"dark, normal","pickup, gluttony, quick-feet"
+linoone-galar,https://pokeapi.co/api/v2/pokemon/10175/,"dark, normal","pickup, gluttony, quick-feet"
+darumaka-galar,https://pokeapi.co/api/v2/pokemon/10176/,ice,"hustle, inner-focus"
+darmanitan-galar-standard,https://pokeapi.co/api/v2/pokemon/10177/,ice,"gorilla-tactics, zen-mode"
+darmanitan-galar-zen,https://pokeapi.co/api/v2/pokemon/10178/,"ice, fire","gorilla-tactics, zen-mode"
+yamask-galar,https://pokeapi.co/api/v2/pokemon/10179/,"ground, ghost",wandering-spirit
+stunfisk-galar,https://pokeapi.co/api/v2/pokemon/10180/,"ground, steel",mimicry
+zygarde-10,https://pokeapi.co/api/v2/pokemon/10181/,"dragon, ground",aura-break
+cramorant-gulping,https://pokeapi.co/api/v2/pokemon/10182/,"flying, water",gulp-missile
+cramorant-gorging,https://pokeapi.co/api/v2/pokemon/10183/,"flying, water",gulp-missile
+toxtricity-low-key,https://pokeapi.co/api/v2/pokemon/10184/,"electric, poison","punk-rock, minus, technician"
+eiscue-noice,https://pokeapi.co/api/v2/pokemon/10185/,ice,ice-face
+indeedee-female,https://pokeapi.co/api/v2/pokemon/10186/,"psychic, normal","own-tempo, synchronize, psychic-surge"
+morpeko-hangry,https://pokeapi.co/api/v2/pokemon/10187/,"electric, dark",hunger-switch
+zacian-crowned,https://pokeapi.co/api/v2/pokemon/10188/,"fairy, steel",intrepid-sword
+zamazenta-crowned,https://pokeapi.co/api/v2/pokemon/10189/,"fighting, steel",dauntless-shield
+eternatus-eternamax,https://pokeapi.co/api/v2/pokemon/10190/,"poison, dragon",pressure
+urshifu-rapid-strike,https://pokeapi.co/api/v2/pokemon/10191/,"fighting, water",unseen-fist
+zarude-dada,https://pokeapi.co/api/v2/pokemon/10192/,"dark, grass",leaf-guard
+calyrex-ice,https://pokeapi.co/api/v2/pokemon/10193/,"psychic, ice",as-one-glastrier
+calyrex-shadow,https://pokeapi.co/api/v2/pokemon/10194/,"psychic, ghost",as-one-spectrier
+venusaur-gmax,https://pokeapi.co/api/v2/pokemon/10195/,"grass, poison","overgrow, chlorophyll"
+charizard-gmax,https://pokeapi.co/api/v2/pokemon/10196/,"fire, flying","blaze, solar-power"
+blastoise-gmax,https://pokeapi.co/api/v2/pokemon/10197/,water,"torrent, rain-dish"
+butterfree-gmax,https://pokeapi.co/api/v2/pokemon/10198/,"bug, flying","compound-eyes, tinted-lens"
+pikachu-gmax,https://pokeapi.co/api/v2/pokemon/10199/,electric,"static, lightning-rod"
+meowth-gmax,https://pokeapi.co/api/v2/pokemon/10200/,normal,"pickup, technician, unnerve"
+machamp-gmax,https://pokeapi.co/api/v2/pokemon/10201/,fighting,"guts, no-guard, steadfast"
+gengar-gmax,https://pokeapi.co/api/v2/pokemon/10202/,"ghost, poison",cursed-body
+kingler-gmax,https://pokeapi.co/api/v2/pokemon/10203/,water,"hyper-cutter, shell-armor, sheer-force"
+lapras-gmax,https://pokeapi.co/api/v2/pokemon/10204/,"water, ice","water-absorb, shell-armor, hydration"
+eevee-gmax,https://pokeapi.co/api/v2/pokemon/10205/,normal,"run-away, adaptability, anticipation"
+snorlax-gmax,https://pokeapi.co/api/v2/pokemon/10206/,normal,"immunity, thick-fat, gluttony"
+garbodor-gmax,https://pokeapi.co/api/v2/pokemon/10207/,poison,"stench, weak-armor, aftermath"
+melmetal-gmax,https://pokeapi.co/api/v2/pokemon/10208/,steel,iron-fist
+rillaboom-gmax,https://pokeapi.co/api/v2/pokemon/10209/,grass,"overgrow, grassy-surge"
+cinderace-gmax,https://pokeapi.co/api/v2/pokemon/10210/,fire,"blaze, libero"
+inteleon-gmax,https://pokeapi.co/api/v2/pokemon/10211/,water,"torrent, sniper"
+corviknight-gmax,https://pokeapi.co/api/v2/pokemon/10212/,"flying, steel","pressure, unnerve, mirror-armor"
+orbeetle-gmax,https://pokeapi.co/api/v2/pokemon/10213/,"bug, psychic","swarm, frisk, telepathy"
+drednaw-gmax,https://pokeapi.co/api/v2/pokemon/10214/,"water, rock","strong-jaw, shell-armor, swift-swim"
+coalossal-gmax,https://pokeapi.co/api/v2/pokemon/10215/,"rock, fire","steam-engine, flame-body, flash-fire"
+flapple-gmax,https://pokeapi.co/api/v2/pokemon/10216/,"grass, dragon","ripen, gluttony, hustle"
+appletun-gmax,https://pokeapi.co/api/v2/pokemon/10217/,"grass, dragon","ripen, gluttony, thick-fat"
+sandaconda-gmax,https://pokeapi.co/api/v2/pokemon/10218/,ground,"sand-spit, shed-skin, sand-veil"
+toxtricity-amped-gmax,https://pokeapi.co/api/v2/pokemon/10219/,"electric, poison","punk-rock, plus, technician"
+centiskorch-gmax,https://pokeapi.co/api/v2/pokemon/10220/,"fire, bug","flash-fire, white-smoke, flame-body"
+hatterene-gmax,https://pokeapi.co/api/v2/pokemon/10221/,"psychic, fairy","healer, anticipation, magic-bounce"
+grimmsnarl-gmax,https://pokeapi.co/api/v2/pokemon/10222/,"dark, fairy","prankster, frisk, pickpocket"
+alcremie-gmax,https://pokeapi.co/api/v2/pokemon/10223/,fairy,"sweet-veil, aroma-veil"
+copperajah-gmax,https://pokeapi.co/api/v2/pokemon/10224/,steel,"sheer-force, heavy-metal"
+duraludon-gmax,https://pokeapi.co/api/v2/pokemon/10225/,"steel, dragon","light-metal, heavy-metal, stalwart"
+urshifu-single-strike-gmax,https://pokeapi.co/api/v2/pokemon/10226/,"fighting, dark",unseen-fist
+urshifu-rapid-strike-gmax,https://pokeapi.co/api/v2/pokemon/10227/,"fighting, water",unseen-fist
+toxtricity-low-key-gmax,https://pokeapi.co/api/v2/pokemon/10228/,"electric, poison","punk-rock, minus, technician"
+growlithe-hisui,https://pokeapi.co/api/v2/pokemon/10229/,"fire, rock","intimidate, flash-fire, rock-head"
+arcanine-hisui,https://pokeapi.co/api/v2/pokemon/10230/,"fire, rock","intimidate, flash-fire, rock-head"
+voltorb-hisui,https://pokeapi.co/api/v2/pokemon/10231/,"electric, grass","soundproof, static, aftermath"
+electrode-hisui,https://pokeapi.co/api/v2/pokemon/10232/,"electric, grass","soundproof, static, aftermath"
+typhlosion-hisui,https://pokeapi.co/api/v2/pokemon/10233/,"fire, ghost","blaze, frisk"
+qwilfish-hisui,https://pokeapi.co/api/v2/pokemon/10234/,"dark, poison","poison-point, swift-swim, intimidate"
+sneasel-hisui,https://pokeapi.co/api/v2/pokemon/10235/,"fighting, poison","inner-focus, keen-eye, pickpocket"
+samurott-hisui,https://pokeapi.co/api/v2/pokemon/10236/,"water, dark","torrent, sharpness"
+lilligant-hisui,https://pokeapi.co/api/v2/pokemon/10237/,"grass, fighting","chlorophyll, hustle, leaf-guard"
+zorua-hisui,https://pokeapi.co/api/v2/pokemon/10238/,"normal, ghost",illusion
+zoroark-hisui,https://pokeapi.co/api/v2/pokemon/10239/,"normal, ghost",illusion
+braviary-hisui,https://pokeapi.co/api/v2/pokemon/10240/,"psychic, flying","keen-eye, sheer-force, tinted-lens"
+sliggoo-hisui,https://pokeapi.co/api/v2/pokemon/10241/,"steel, dragon","sap-sipper, shell-armor, gooey"
+goodra-hisui,https://pokeapi.co/api/v2/pokemon/10242/,"steel, dragon","sap-sipper, shell-armor, gooey"
+avalugg-hisui,https://pokeapi.co/api/v2/pokemon/10243/,"ice, rock","strong-jaw, ice-body, sturdy"
+decidueye-hisui,https://pokeapi.co/api/v2/pokemon/10244/,"grass, fighting","overgrow, scrappy"
+dialga-origin,https://pokeapi.co/api/v2/pokemon/10245/,"steel, dragon","pressure, telepathy"
+palkia-origin,https://pokeapi.co/api/v2/pokemon/10246/,"water, dragon","pressure, telepathy"
+basculin-white-striped,https://pokeapi.co/api/v2/pokemon/10247/,water,"rattled, adaptability, mold-breaker"
+basculegion-female,https://pokeapi.co/api/v2/pokemon/10248/,"water, ghost","swift-swim, adaptability, mold-breaker"
+enamorus-therian,https://pokeapi.co/api/v2/pokemon/10249/,"fairy, flying",overcoat
+tauros-paldea-combat-breed,https://pokeapi.co/api/v2/pokemon/10250/,fighting,"intimidate, anger-point, cud-chew"
+tauros-paldea-blaze-breed,https://pokeapi.co/api/v2/pokemon/10251/,"fighting, fire","intimidate, anger-point, cud-chew"
+tauros-paldea-aqua-breed,https://pokeapi.co/api/v2/pokemon/10252/,"fighting, water","intimidate, anger-point, cud-chew"
+wooper-paldea,https://pokeapi.co/api/v2/pokemon/10253/,"poison, ground","poison-point, water-absorb, unaware"
+oinkologne-female,https://pokeapi.co/api/v2/pokemon/10254/,normal,"aroma-veil, gluttony, thick-fat"
+dudunsparce-three-segment,https://pokeapi.co/api/v2/pokemon/10255/,normal,"serene-grace, run-away, rattled"
+palafin-hero,https://pokeapi.co/api/v2/pokemon/10256/,water,"zero-to-hero, zero-to-hero"
+maushold-family-of-three,https://pokeapi.co/api/v2/pokemon/10257/,normal,"friend-guard, cheek-pouch, technician"
+tatsugiri-droopy,https://pokeapi.co/api/v2/pokemon/10258/,"dragon, water","commander, storm-drain"
+tatsugiri-stretchy,https://pokeapi.co/api/v2/pokemon/10259/,"dragon, water","commander, storm-drain"
+squawkabilly-blue-plumage,https://pokeapi.co/api/v2/pokemon/10260/,"normal, flying","intimidate, hustle, guts"
+squawkabilly-yellow-plumage,https://pokeapi.co/api/v2/pokemon/10261/,"normal, flying","intimidate, hustle, sheer-force"
+squawkabilly-white-plumage,https://pokeapi.co/api/v2/pokemon/10262/,"normal, flying","intimidate, hustle, sheer-force"
+gimmighoul-roaming,https://pokeapi.co/api/v2/pokemon/10263/,ghost,"run-away, run-away"
+koraidon-limited-build,https://pokeapi.co/api/v2/pokemon/10264/,"fighting, dragon","orichalcum-pulse, orichalcum-pulse"
+koraidon-sprinting-build,https://pokeapi.co/api/v2/pokemon/10265/,"fighting, dragon","orichalcum-pulse, orichalcum-pulse"
+koraidon-swimming-build,https://pokeapi.co/api/v2/pokemon/10266/,"fighting, dragon","orichalcum-pulse, orichalcum-pulse"
+koraidon-gliding-build,https://pokeapi.co/api/v2/pokemon/10267/,"fighting, dragon","orichalcum-pulse, orichalcum-pulse"
+miraidon-low-power-mode,https://pokeapi.co/api/v2/pokemon/10268/,"electric, dragon","hadron-engine, hadron-engine"
+miraidon-drive-mode,https://pokeapi.co/api/v2/pokemon/10269/,"electric, dragon","hadron-engine, hadron-engine"
+miraidon-aquatic-mode,https://pokeapi.co/api/v2/pokemon/10270/,"electric, dragon","hadron-engine, hadron-engine"
+miraidon-glide-mode,https://pokeapi.co/api/v2/pokemon/10271/,"electric, dragon","hadron-engine, hadron-engine"
+ursaluna-bloodmoon,https://pokeapi.co/api/v2/pokemon/10272/,"ground, normal",minds-eye
+ogerpon-wellspring-mask,https://pokeapi.co/api/v2/pokemon/10273/,"grass, water",water-absorb
+ogerpon-hearthflame-mask,https://pokeapi.co/api/v2/pokemon/10274/,"grass, fire",mold-breaker
+ogerpon-cornerstone-mask,https://pokeapi.co/api/v2/pokemon/10275/,"grass, rock",sturdy
+terapagos-terastal,https://pokeapi.co/api/v2/pokemon/10276/,normal,tera-shell
+terapagos-stellar,https://pokeapi.co/api/v2/pokemon/10277/,normal,teraform-zero
