@@ -28,14 +28,7 @@ lightgbm = "^4.5.0"
 beautifulsoup4 = "^4.12.3"
 ipywidgets = "^8.1.5"
 liac-arff = "^2.5.0"
-openpyxl = "^3.1.5"
-<<<<<<< HEAD
-pyarrow = "^18.0.0"
-yfinance = "^0.2.50"
-spicy = "^0.16.0"
-=======
-yfinance = "^0.2.50"
->>>>>>> upstream/main
+
 
 
 [build-system]
