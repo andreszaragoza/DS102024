@@ -15,6 +15,3 @@ print(resultado)
 texto = "hola mundo"
 texto_procesado = procesador_texto.procesar_texto(texto)
 print(texto_procesado)
-
-
-# ¿y si no fuese src sino 3-Ficheros?
