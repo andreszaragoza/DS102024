@@ -33,6 +33,7 @@ yfinance = "^0.2.50"
 orjson = "^3.10.14"
 ace-tools = "^0.0"
 imblearn = "^0.0"
+skforecast = "^0.14.0"
 
 
 [build-system]
