@@ -33,6 +33,7 @@ yfinance = "^0.2.50"
 orjson = "^3.10.14"
 scikit-optimize = "^0.10.2"
 optuna = "^4.2.0"
+snappy = "^3.2"
 
 
 [build-system]
