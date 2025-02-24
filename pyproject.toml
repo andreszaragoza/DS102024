@@ -36,6 +36,7 @@ optuna = "^4.2.0"
 snappy = "^3.2"
 pyarrow = "^19.0.1"
 wordcloud = "^1.9.4"
+imblearn = "^0.0"
 
 
 [build-system]
