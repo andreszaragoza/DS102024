@@ -169,3 +169,7 @@ Prof/
 .DS_Store/
 Dataset/
 *.python-version
+2-DataAnalysis/6-DataBase/2-SQL/datos.db
+2-DataAnalysis/6-DataBase/2-SQL/tu_base_de_datos.db
+3-MachineLearning/2-Supervisado/1-Clasificacion/mnist.json
+3-MachineLearning/2-Supervisado/1-Clasificacion/train.parquet
